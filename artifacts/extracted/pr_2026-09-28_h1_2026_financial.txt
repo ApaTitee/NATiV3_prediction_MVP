@@ -1,0 +1,257 @@
+ 
+ 
+pg. 1 
+PRESS RELEASE 
+Inventiva Reports Unaudited 2026 First-Half 
+Financial Results and Provides Corporate Update 
+ 
+• Cash and cash equivalents at €166.1 million and €67.8 million 
+in short-term deposits1 as of June 30, 2026 
+• Cash runway guidance remains unchanged from July 30, 20262 
+• Topline results of the Phase 3 NATiV3 clinical trial are expected 
+in the fourth quarter of 2026 
+• Key highlights from the first half of 2026 and recent Company 
+updates 
+• Management to host webcast today at 8:00 AM ET to discuss 
+first-half 2026 financial results  
+ 
+Daix (France), New York (New York, United States), September 28 , 2026 –  Inventiva (Euronext Paris 
+and NASDAQ: IVA) (“Inventiva” or the “Company”), a clinical- stage biopharmaceutical company 
+focused on the development of an oral therapy for the treatment of metabolic dysfunction-associated 
+steatohepatitis (“MASH”), today reported its financial information for the first half of 2026, ended June 
+30, 2026, including its cash position, cash flows and revenues, and provided a corporate update. 
+ 
+Key Financial Results for the First Half of 2026 
+(in thousands of euros) 
+ 
+Six Months Ended  
+ June 30, 2026  June 30, 2025 
+Revenues  20  4,454 
+Other income  1,286  1,156 
+Research and development expenses  (46,238)  (44,890) 
+Marketing – business development expenses  (2,589)  (746) 
+General and administrative expenses  (22,247)  (14,713) 
+Other operating income (expenses)  (619)  (8,202) 
+Net Operating Loss  (70,388)  (62,940) 
+Net Financial Income (Loss)  907  (113,224) 
+Share of net loss- Equity method and dilution gain  117  (220) 
+ 
+1 Short-term deposits were included in the category “other current assets” in the IFRS consolidated statement of financial position and 
+were considered by the Company as liquid and easily available. 
+2 Cf press release of July 30, 2026. 
+
+ 
+ 
+pg. 2 
+PRESS RELEASE 
+Income tax  (104)  503 
+Net Loss for the Period  (69,467)  (175,882) 
+Basic/diluted loss per share (euros/share)  (0.25)  (1.62) 
+Weighted average number of outstanding shares used 
+for computing basic/diluted loss per share   273,582,870  108,839,636 
+There were no revenues recorded for the first half of 2026, compared to €4.5 million generated for the 
+same period in 2025. Revenue recognized in the first half of 2025 was attributable to the 2022 License 
+Agreement with Chia Tai Tianging Pharmaceutical Group Co., Ltd. (as amended and assigned to  Chia 
+Tai Tianging (Guangzhou) Co., Ltd). 
+Other income amounted to €1.3 million for the first half of 2026, stable as compared to €1.2 million for 
+the first half of 2025. Other income mainly consisted of the French research tax credit (“Crédit d’Impôt 
+Recherche”). 
+R&D expenses  for the first half of 2026 amounted to € 46.2 million, mainly driven by the clinical 
+development of lanifibranor in MASH, up 3.0% compared to the €44.9 million for the first half of 2025. 
+This increase was in line with operational plan expectations and did not include any preclinical research 
+expenses following the discontinuation of preclinical R&D activities implemented mid-2025. 
+Marketing and business development expenses amounted to €2.6 million for the first half of 2026 , 
+compared to €0.7 million for the same period in 2025, primarily reflecting increased personnel costs and 
+expenses related to preparations for the potential commercial development of lanifibranor, if approved.  
+General and administrative expenses (G&A)  amounted to €22.2 million in the first half of 2026, 
+compared to €14.7 million in the first half of 2025, an increase of €7.5 million. The change was primarily 
+related to €4.7 million of increase in personnel costs, including share -based compensation expenses, 
+consulting fees and other expenses associated with potential commercial development of lanifibranor, 
+if approved.  
+Net financial income (loss)  amounted to €0.9 million in the first half of 2026, compared to (€113.2) 
+million for the same period in 2025. The financial result for the first half of 2026 mainly reflected (i) €16.2 
+million of non-cash impact from the IFRS fair value accounting of financial instruments entered into in 
+connection with the restructuring of warrants issued to European Investment Bank (“EIB”), the Lenders' 
+Warrants issued to funds and accounts managed by BlackRock and Claret Capital Partners (together, 
+the “Lenders”) and the embedded convertible option in the first tranche of €35.0 million of senior secured 
+convertible bonds issued under the June 2026 debt financing with the Lenders for up  to €130.0 million 
+(the “Debt Financing ”), (ii) €4.8 million of income from cash equivalents and foreign exchange gains 
+(net), and (iii) (€20.0) million of interest and related financial expenses, including (€11.2) million 
+resulting from the repayment of the loan with the EIB and (€7.4) million of interest expense related to 
+the royalty certificates issued in 2023 and 2024. 
+The Company’s net loss stood at (€69.5) million as of June 30, 2026, compared to (€175.9) million as of 
+June 30, 2025. 
+As of June 30, 2026, the Company’s cash and cash equivalents amounted to €166.1 million and €67.8 
+million in short -term deposits1, compared to cash and cash equivalents of  €99.3 million and €131.6 
+million in short-term deposits as of December 31, 2025. 
+Net cash used in operating activities amounted to (€45.4) million for the first half of 2026, compared to 
+(€53.7) million for the same period in 2025. The lower cash consumption mainly reflects the favorable 
+working capital change partially offset by the increase in operating expenses relating to the continued 
+advancement of the NATiV3 Phase 3 clinical trial and preparation of pre-commercial activities. 
+
+ 
+ 
+pg. 3 
+PRESS RELEASE 
+ 
+Net cash generated from investing activities  for the first half of 2026 amounted to €63. 8 million, 
+compared to (€24.8) million for the first half of 2025. The increase primarily reflects changes in the 
+Company's short-term deposits, including in connection with the June 2026 comprehensive refinancing 
+transaction3. 
+Net cash generated from financing activities  for the first half of 2026 amounted to € 47.7 million, 
+compared to €104.8 million for the first half of 2025.The net cash generated from financing activities in 
+the first half of 2026 reflects the comprehensive refinancing transaction announced on June 2, 2026, 
+including the offering of 27,272,727 American Depositary Shares (the “ Equity Offering ”) for €103.0 
+million and the Tranches A and B of the Debt Financing of €75 .0 million, both in gross proceeds. These 
+cash inflows were partially  offset by the repayment in full of the existing EIB loans for an aggregate 
+amount of €62.2 million, and the repurchase of all of the warrants issued to EIB in connection with the 
+first tranche of the EIB loans and 700,000 of the warrants issued to EIB in connection with the second 
+tranche of the EIB loans  for an aggregate repurchase price of €50 .0 million4. The net cash generated 
+from financing activities in the first half of 2025 came from the gross proceeds of €115.6 million (net 
+proceeds of €108.0) of the 2024 Structured Financing5. 
+Based on the Company’s existing cash and cash equivalents and short-term deposits, together with the 
+net proceeds from the completed Equity Offering, the completed EIB Transactions and the issuance of 
+Tranches A and B under the Debt Financing Transaction6, the Company expects to be able to finance its 
+operations as currently planned until the end of the second quarter of 2027. At the date of this press 
+release, the Company's current cash and cash equivalents are not sufficient to cover operating needs as 
+currently planned for the next twelve months. 
+If Tranche C of the Debt Financing Transaction 3 is issued for potential gross proceeds of up to €55.0 
+million and the Tranche 3 warrants previously issued by the Company in the Structured Financing 5 for 
+potential gross proceeds of up to €116.0 million are exercised in full, the Company expects to be able to 
+finance its operations as currently planned until the start of the first quarter of 20287. 
+Over the first half of 2026, the Company recorded a positive foreign exchange effect on cash and cash 
+equivalents of €0.7 million, compared with a negative effect of (€0.7) million for the first half of 2025, 
+primarily due to the changes in the EUR/USD exchange rate. 
+ 
+Corporate Updates 
+• On September 2, 2026, Inventiva announced that the last patient had completed their final 72-
+week visit in the NATiV3 Phase 3 clinical trial  evaluating lanifibranor for the treatment of  
+patients with MASH with moderate and advanced fibrosis8. 
+ 
+3 Cf press release of June 2, 2026 
+4 Cf press releases of June 2, 2026, and June 12, 2026.  
+5 Cf press release of October 13, 2024. 
+6 Cf press release of June 2, 2026 (please refer to the description of the financial covenants pertaining to the Debt Financing). 
+7 These estimates are based on the Company’s current business plan and assume the successful issuance of Tranche C of the Debt 
+Financing, and the exercise in full  of the Tranche 3 warrants previously issued by the Company in the Structured Financing for potential 
+proceeds of up to €116.0 million, and exclude any potential milestones payable to or by the Company and any additional expenditures 
+related to the product candidate or resulting from the potential in licensing or acquisition of additional product ca ndidates or 
+technologies, or any associated development the Company may pursue. The Company may have based these estimates on assumptions 
+that are incorrect, and the Company may end up using its resources sooner than anticipated. These estimates may be shortened in the 
+event of an increase, in expenditure relating to the development programs beyond the Company's expectations, or if the development 
+program progresses more quickly than expected. 
+8 Cf press release of September 2, 2026. 
+
+ 
+ 
+pg. 4 
+PRESS RELEASE 
+• NATiV3 enrolled 1,009 adults with biopsy -proven non-cirrhotic MASH and F2/F3 fibrosis, with 
+an additional 410 patients enrolled in an exploratory cohort. 
+• Inventiva expects to report topline results from the Phase 3 clinical trial NATiV3 in the fourth 
+quarter of 2026. 
+• If the NATiV3 topline results are favorable, the Company anticipates regulatory submission in 
+the first half of 2027 and is preparing for a potential U.S. launch of lanifibranor in 2028, subject 
+to U.S. Food and Drug Administration (“FDA”) approval. 
+• Since the start of 2026, Inventiva strengthened its leadership team with the appointment of  
+Axel-Sven Malkomes as Chief Financial Officer, Susan Coles, as Chief Legal Officer, Pamela 
+Herbster as Chief People Officer9 and Chris Benecchi, as Chief Operating Officer10. 
+• Barbara Krebs -Pohl, Anne Prener, and Camilla Soenderby, were appointed as independent 
+members of the Company’s Board of Directors, effective June 30, 2026, reflecting the additional 
+expertise, international reach, and strategic acumen required to guide the Company through its 
+next phase of development and potential commercialization11. 
+ 
+First-Half Financial Results Webcast 
+Inventiva’s management will hold a conference call in English, followed by a Q&A session, on Monday, 
+September 28, 2026, at 8:00 AM (New York), 2:00 PM (Paris) to discuss first-half financial results for 
+2026. Participants wishing to join the conference call by phone and ask questions must register in 
+advance here. Upon registration, participants will receive dial-in details by email. The live webcast may 
+be accessed on the Events  section of the Inventiva website. A replay of the conference call will be 
+available after the event on the Company’s website. 
+ 
+Upcoming Scientific Conference Participation 
+The American Association for the Study of Liver Diseases (AASLD), Denver, CO, November 5-9, 2026. 
+ 
+Next Financial Results Publication 
+Revenues and cash and cash equivalents for the third quarter  2026 on Monday November 23 , 2026 
+(before E.U. and U.S. market open). 
+ 
+ 
+About Lanifibranor 
+Lanifibranor, Inventiva’s lead product candidate, is an orally available small molecule that acts to induce 
+antifibrotic, anti-inflammatory and beneficial vascular and metabolic changes in the body by activating all 
+three peroxisome proliferator -activated receptor (“PPAR”) isoforms, which are well -characterized nuclear 
+receptor proteins that regulate gene expression. Lanifibranor is a PPAR agonist that is designed to target all 
+three PPAR isoforms in a moderately potent manner, with a well -balanced activation of PPARα and PPARδ, 
+and a partial activation of PPAR γ. While there are other PPAR agonists that target only one or two PPAR 
+isoforms for activation, lanifibranor is the only pan-PPAR agonist in clinical development for the treatment of 
+ 
+9 Cf press release of April 22, 2026. 
+10 Cf press release of August 31, 2026. 
+11 Cf press release of July 8, 2026. 
+
+ 
+ 
+pg. 5 
+PRESS RELEASE 
+MASH. Inventiva believes that lanifibranor’s moderate and balanced pan-PPAR binding profile contributes to 
+the favorable tolerability profile that has been observed in clinical trials and preclinical studies to date. The 
+FDA has granted Breakthrough Therapy and Fast Track designation to lanifibranor for the treatment of MASH. 
+Lanifibranor is an investigational medicine and has not been approved for use by any regulatory authority. 
+Its safety and efficacy have not been established.  
+ 
+About Inventiva 
+Inventiva is a clinical -stage biopharmaceutical company focused on the research and development of an 
+orally administered small molecule for the treatment of patients with MASH. The Company is  currently 
+evaluating lanifibranor, a novel pan- PPAR agonist, in the NATiV3 pivotal Phase 3 clinical trial for the 
+treatment of adult patients with MASH, a common and progressive chronic liver disease. Inventiva is a public 
+company listed on compartment B of the regulated market of Euronext Paris (ticker: IVA, ISIN: FR0013233012) 
+and on the Nasdaq Global Market in the United States (ticker: IVA).  
+https://www.inventivapharma.com 
+ 
+Contacts 
+Investor Relations  
+David Nikodem: IR@inventivapharma.com 
+Media Relations 
+Lisa Buffington: media@inventivapharma.com 
+ 
+Forward-Looking Statements  
+This press release contains “forward-looking statements” within the meaning of the safe harbor provisions of the Private 
+Securities Litigation Reform Act of 1995. Words such as “believe,” “anticipate,” “expect,” “intend,” “plan,” “seek,” 
+“estimate,” “may,” “will,” “could,” “should,” “designed,” “hope,” “target,” “potential,” “opportunity,” “possible,” “aim,” 
+and “continue” or similar expressions are intended to identify forward -looking statements. All statements, other than 
+statements of historical fact, in cluded in this press release are forward -looking statements. These statements include, 
+but are not limited to, statements concerning the potential therapeutic benefit of lanifibranor, the expected availability 
+and timing of results from NATiV3, the timing of potential regulatory submissions, approvals and commercialization of 
+lanifibranor, Inventiva’s cash resources and expenses and ability to obtain additional financial resources, including 
+assumptions and conditions relating thereto with, and Inventiva's future activities, expectations, plans, growth and 
+prospects. Although Inventiva’s management believes that the expectations reflected in such forward-looking statements 
+are reasonable, investors are cautioned that such forward -looking information and stat ements are subject to various 
+risks, contingencies and uncertainties, many of which are difficult to predict and generally beyond the control of Inventiva, 
+that could cause actual results and developments to differ materially from those expressed in, or implied or projected by, 
+the forward -looking information and statements. These risks, contingencies and uncertainties include, among other 
+things, uncertainties inherent in research and development, clinical data and analysis and decisions by regulatory 
+authorities, such as the FDA or the EMA, regarding whether and when to approve any product candidates, as well as their 
+decisions regarding labelling and other matters that could affect the availability or commercial potential of such product 
+candidates; Inventiva’s reliance on licensors, collaborators, contract research organizations, suppliers and other business 
+partners; Inventiva’s ability to achieve milestones; Inventiva’s ability to obtain adequate financing to fund its operations 
+and continue as a going concern, including Inventiva’s ability to enter into potential transactions on the expected timing 
+or at all, Inventiva’s ability to comply with and satisfy the terms and conditions of its financing documents and whether, 
+when and to what extent the securities issued in the Debt Financing and other dilutive instruments, including the Tranche 
+3 warrants, may be exercised; Inventiva’s ability to execute on its strategy, including with respect to commercialization, 
+marketing and manufacturing; potential negative impacts on Inventiva from changes in laws and regulations, unfavorable 
+conditions in its industry, geopolitical events, and ongoing conflicts, health epidemics, and macroeconomic conditions, 
+including developments in international trade policies, global  inflation, financial and credit market fluctuations, tariffs 
+and other trade barriers, and the other risks and uncertainties described in Inventiva’s Universal Registration Document 
+
+ 
+ 
+pg. 6 
+PRESS RELEASE 
+for the year ended on December 31, 2025 filed with the Autorité des Marchés Financiers on April 8, 2026, Inventiva’s  
+Annual Report on Form 20- F for the year ended December 31, 2025 filed with the SEC on April 8, 2026 and Inventiva’s 
+Half-Year Report for the fiscal period ended June 30, 2026, filed on Form 6- K on September 28,  2026 including those 
+described under the caption "Risk Factors", and in future filings with the SEC. All forward -looking statements contained 
+in this press release speak only as of the date on which they were made. Inventiva disclaims any obligation to up date 
+these forward-looking statements, forecasts or estimates to reflect any subsequent changes that Inventiva becomes 
+aware of, except as required by law.  

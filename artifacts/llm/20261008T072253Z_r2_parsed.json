@@ -1,0 +1,219 @@
+{
+  "pro_evidence": [
+    {
+      "claim_id": "C02",
+      "argument": "Primary endpoint is a strict composite requiring BOTH MASH resolution (CRN ballooning 0, inflammation 0-1) AND fibrosis improvement (>=1 stage decrease) at Week 72, read centrally — the same reading paradigm used at screening (C04), which reduces reader-discordance noise between baseline and endpoint.",
+      "mechanism_link": "pan-PPAR alpha/delta/gamma agonism simultaneously targets steatohepatitis activity (inflammation/ballooning) and fibrogenesis, so a composite that demands both is mechanistically aligned with the drug's multi-pathway pharmacology rather than a single-pathway bet."
+    },
+    {
+      "claim_id": "C10",
+      "argument": "In the Phase 2b NATIVE trial the 1200 mg dose met the primary endpoint with a statistically significant separation from placebo (55% vs 33%, P=0.007), establishing prior proof of histological activity for the high dose.",
+      "mechanism_link": "Dose-dependent PPAR engagement: the 1200 mg/day exposure achieved in Phase 2b is carried forward unchanged into NATiV3, so the biological effect size observed at that exposure is the relevant prior for the Phase 3 high-dose arm."
+    },
+    {
+      "claim_id": "C11",
+      "argument": "NATIVE reported the exact component and composite histology rates that map onto the Phase 3 CRN composite (resolution 49%/39% vs 22%; fibrosis improvement 48%/34% vs 29%; composite 35%/25% vs 9%), giving a direct within-drug anchor for the Phase 3 endpoint definition.",
+      "mechanism_link": "The composite (resolution + fibrosis improvement) is the most demanding and least placebo-prone component; the large NATIVE composite separation (35%/25% vs 9%) indicates the drug's effect is concentrated in the co-occurrence of both histological improvements, which is precisely what the Phase 3 primary tests."
+    },
+    {
+      "claim_id": "C14",
+      "argument": "ESSENCE, a same-construct Phase 3 in F2/F3 MASH with a 72-week CRN composite endpoint, achieved a 32.7% vs 16.1% composite rate (delta 16.5 pp, P<0.001), demonstrating that a 72-week CRN composite is a viable and achievable Phase 3 endpoint in this population.",
+      "mechanism_link": "Confirms the endpoint is not intrinsically unattainable at 72 weeks in F2/F3; the trial's operating characteristics (power, event rates) are therefore not the binding constraint — drug effect is."
+    },
+    {
+      "claim_id": "C05",
+      "argument": "Enrollment exceeded target (1009 main + 410 exploratory vs 969/350), and the financing covenant required a drop-out rate below 30% before Week 72, with the covenant already satisfied as of 2025-04-01.",
+      "mechanism_link": "Over-enrollment plus a contractual dropout ceiling increases evaluable biopsy count at Week 72, which directly protects power and reduces the influence of missing-biopsy imputation on the composite endpoint."
+    },
+    {
+      "claim_id": "C07",
+      "argument": "Sample size was sized for 90% power and randomization was stratified by fibrosis stage and diabetic status, matching the stratification factors used in the assumed CMH test.",
+      "mechanism_link": "Stratification on the two strongest prognostic covariates (fibrosis stage, diabetes) removes between-arm imbalance in the baseline risk of the composite event, tightening the variance of the treatment contrast."
+    },
+    {
+      "claim_id": "C06",
+      "argument": "Last patient last visit occurred in 2026-09 and topline is expected in Q4 2026, so the outcome is physically fixed and unblinded only at the prespecified analysis.",
+      "mechanism_link": "A locked database removes the possibility of post-hoc endpoint redefinition or cohort trimming, making the readout a clean test of the prespecified composite."
+    },
+    {
+      "claim_id": "C12",
+      "argument": "In NATIVE, adverse-event dropout was under 5% and similar across arms, indicating the safety profile is unlikely to differentially erode the active arms over a longer 72-week exposure.",
+      "mechanism_link": "Low and balanced AE-driven discontinuation preserves randomized comparability and limits differential missingness on the biopsy endpoint."
+    }
+  ],
+  "con_evidence": [
+    {
+      "claim_id": "C08",
+      "argument": "Patients may initiate a GLP-1 receptor agonist after randomization, which introduces an asymmetric post-randomization confounder because placebo-arm patients have greater incentive to add an active weight-loss agent.",
+      "mechanism_link": "GLP-1 RAs independently improve steatohepatitis and fibrosis; differential drop-in on placebo compresses the placebo-vs-lanifibranor contrast and biases the composite toward the null."
+    },
+    {
+      "claim_id": "C20",
+      "argument": "Baseline GLP-1 use was approximately 14% and T2D approximately 55% in the NATiV3 main cohort, so a substantial fraction of the population is already on background incretin or antidiabetic therapy at entry.",
+      "mechanism_link": "High background GLP-1/SGLT2 use raises the placebo response floor and reduces the incremental histological benefit attributable to lanifibranor, shrinking the observable delta."
+    },
+    {
+      "claim_id": "C15",
+      "argument": "Pooled noncirrhotic MASH placebo MASH-resolution rate is 11% (95% CI 8-14%) across 127 studies, but ESSENCE reported a 34.3% placebo resolution rate, showing extreme between-trial variability in the placebo arm.",
+      "mechanism_link": "Unstable placebo event rates make the assumed control rate a major source of power uncertainty; if NATiV3's placebo behaves like ESSENCE rather than the pooled estimate, the detectable delta shrinks materially."
+    },
+    {
+      "claim_id": "C10",
+      "argument": "In NATIVE the 800 mg dose did not reach the primary endpoint (48% vs 33%, P=0.07), so only one of the two Phase 3 doses has prior Phase 2b statistical support.",
+      "mechanism_link": "If the Phase 3 effect is dose-dependent and the 800 mg arm is underpowered or sub-efficacious, the trial's success hinges on the 1200 mg arm alone, reducing the effective number of independent shots on goal."
+    },
+    {
+      "claim_id": "C11",
+      "argument": "NATIVE's composite rate was 35%/25% vs 9% under the SAF reading paradigm, whereas NATiV3 uses the CRN paradigm; the crosswalk between SAF and CRN scoring is not established in the ledger.",
+      "mechanism_link": "A paradigm shift in histological scoring can change both the active and placebo event definitions, so the Phase 2b composite anchor may not transfer quantitatively to the Phase 3 CRN composite."
+    },
+    {
+      "claim_id": "C16",
+      "argument": "Elafibranor, a PPAR agonist in the same mechanistic class, failed its Phase 3 RESOLVE-IT NASH primary endpoint, with no peer-reviewed primary results publication available.",
+      "mechanism_link": "Class-level Phase 3 failure is a qualitative warning that PPAR-mediated histological improvement in Phase 2 may not replicate at Phase 3 scale, independent of the specific molecule."
+    },
+    {
+      "claim_id": "C19",
+      "argument": "ClinicalTrials.gov lists primaryCompletionDate as 2027-09-30 (estimated), reflecting the 48-week Part B/ATE extension, which is later than the company's Q4 2026 topline for Part A.",
+      "mechanism_link": "The discrepancy signals that the registrational package depends on Part B follow-up beyond the Part A readout, so a positive Part A composite alone may not be sufficient for the intended filing pathway."
+    },
+    {
+      "claim_id": "C18",
+      "argument": "The intended filing strategy is FDA Accelerated Approval and EMA Conditional Approval, explicitly subject to positive Phase 3 histology results.",
+      "mechanism_link": "Accelerated/conditional pathways imply the histology endpoint is a surrogate; even a statistically positive composite may face regulatory scrutiny on clinical benefit, adding non-statistical risk after the readout."
+    }
+  ],
+  "evidence_to_parameter_mapping": [
+    {
+      "claim_id": "C02",
+      "parameter": "primary_endpoint_definition (composite: MASH resolution AND fibrosis improvement, Week 72, CRN, central reading)",
+      "qualitative_direction": "Defines the event; a stricter composite lowers the expected event rate in both arms relative to single-component endpoints."
+    },
+    {
+      "claim_id": "C03",
+      "parameter": "arm_structure (1:1:1 lanifibranor 800 mg / 1200 mg / placebo)",
+      "qualitative_direction": "Three-arm design with shared placebo; supports Hochberg-style two-dose testing and any-dose decision rule."
+    },
+    {
+      "claim_id": "C04",
+      "parameter": "population_definition (SAF A3/A4 + F2/F3, central reading; GLP-1/SGLT2 stable >=3 months; weight stable >=6 months)",
+      "qualitative_direction": "Enriched for active steatohepatitis and F2/F3 fibrosis, which raises event rates relative to an all-comers MASH population."
+    },
+    {
+      "claim_id": "C05",
+      "parameter": "sample_size_and_dropout (main cohort 1009 vs target 969; dropout covenant <30% before Week 72)",
+      "qualitative_direction": "Over-enrollment and a satisfied dropout ceiling increase evaluable N and protect power."
+    },
+    {
+      "claim_id": "C07",
+      "parameter": "power_and_stratification (90% power; stratified by fibrosis stage and diabetic status)",
+      "qualitative_direction": "Higher power target and stratification on prognostic factors tighten the treatment contrast and reduce variance."
+    },
+    {
+      "claim_id": "C08",
+      "parameter": "post_randomization_glp1_dropin (allowed after randomization)",
+      "qualitative_direction": "Asymmetric drop-in on placebo compresses the active-vs-placebo delta toward the null."
+    },
+    {
+      "claim_id": "C09",
+      "parameter": "phase2b_effect_size_anchor (placebo-adjusted differences: fibrosis 18%, composite 24%, F2/F3 composite 26%)",
+      "qualitative_direction": "Company-reported Phase 2b deltas set the prior center for the Phase 3 effect size; these are differences, not response rates."
+    },
+    {
+      "claim_id": "C10",
+      "parameter": "phase2b_primary_endpoint_result (1200 mg 55% vs 33%, P=0.007; 800 mg 48% vs 33%, P=0.07 NS)",
+      "qualitative_direction": "Supports a positive prior for the 1200 mg dose and a weaker/uncertain prior for the 800 mg dose."
+    },
+    {
+      "claim_id": "C11",
+      "parameter": "phase2b_component_and_composite_rates (resolution 49%/39% vs 22%; fibrosis 48%/34% vs 29%; composite 35%/25% vs 9%)",
+      "qualitative_direction": "Provides within-drug component and composite anchors; the composite shows the largest separation and the lowest placebo rate."
+    },
+    {
+      "claim_id": "C12",
+      "parameter": "safety_dropout_rate (AE dropout <5%, similar across arms)",
+      "qualitative_direction": "Low and balanced AE dropout limits differential missingness and preserves randomized comparability."
+    },
+    {
+      "claim_id": "C13",
+      "parameter": "external_crn_component_benchmark (MAESTRO-NASH 52-week CRN: resolution 25.9%/29.9% vs 9.7%; fibrosis improvement 24.2%/25.9% vs 14.2%)",
+      "qualitative_direction": "Sets an external CRN component benchmark; composite not directly reported, so it informs component-level expectations only."
+    },
+    {
+      "claim_id": "C14",
+      "parameter": "external_phase3_composite_benchmark (ESSENCE 72-week CRN composite 32.7% vs 16.1%, delta 16.5 pp, P<0.001)",
+      "qualitative_direction": "Demonstrates a 72-week CRN composite is achievable in F2/F3; provides an external active and placebo composite anchor."
+    },
+    {
+      "claim_id": "C15",
+      "parameter": "placebo_resolution_rate_prior (pooled 11%, 95% CI 8-14%)",
+      "qualitative_direction": "Sets a low pooled placebo resolution prior, but the wide between-trial variability (ESSENCE 34.3%) makes the control rate a major uncertainty."
+    },
+    {
+      "claim_id": "C16",
+      "parameter": "class_failure_precedent (elafibranor RESOLVE-IT Phase 3 NASH failure, no peer-reviewed primary results)",
+      "qualitative_direction": "Qualitative downward pressure on the prior for PPAR-class Phase 3 replication; not used numerically."
+    },
+    {
+      "claim_id": "C18",
+      "parameter": "regulatory_pathway (FDA Accelerated Approval / EMA Conditional Approval, subject to positive Phase 3 histology)",
+      "qualitative_direction": "Frames histology as a surrogate endpoint; positive statistics do not automatically translate to approval."
+    },
+    {
+      "claim_id": "C19",
+      "parameter": "primary_completion_date (2027-09-30 estimated, includes Part B ATE 48 weeks)",
+      "qualitative_direction": "Indicates the registrational timeline extends beyond the Part A topline, adding follow-up dependence."
+    },
+    {
+      "claim_id": "C20",
+      "parameter": "baseline_background_therapy_and_fibrosis_mix (T2D ~55%, GLP-1 ~14%, F2 ~67%/F3 ~33% by layout reading)",
+      "qualitative_direction": "High background GLP-1/T2D prevalence raises the placebo floor and may attenuate the incremental lanifibranor effect; F2/F3 mix affects expected event rates."
+    }
+  ],
+  "gaps": [
+    {
+      "topic": "Statistical analysis plan (SAP) not public: alpha, multiplicity procedure, interim alpha spending, test statistic, estimand, and missing-biopsy imputation are all assumed in the design card.",
+      "why_it_matters": "The success criterion (alpha, Hochberg vs fixed sequence, ITT vs per-protocol, NRI vs MI) directly determines the probability of a statistically positive readout and cannot be verified from the ledger.",
+      "suggested_source": "Inventiva SAP or statistical section of the ClinicalTrials.gov record / regulatory filing; company disclosure of multiplicity and imputation conventions."
+    },
+    {
+      "topic": "No efficacy interim analysis evidence; all five DMC reviews were safety-only.",
+      "why_it_matters": "Absence of an efficacy interim means the full alpha is spent at the final analysis, but also that no early stopping for futility or efficacy is available; this affects the timing and interpretation of the Q4 2026 topline.",
+      "suggested_source": "DMC charter or company disclosure confirming no efficacy interim and the final analysis timing."
+    },
+    {
+      "topic": "SAF-to-CRN histological scoring crosswalk between NATIVE (Phase 2b) and NATiV3 (Phase 3).",
+      "why_it_matters": "The Phase 2b effect-size anchor (C09, C11) is expressed under SAF, while the Phase 3 primary uses CRN; without a validated crosswalk the prior center for the Phase 3 composite is uncertain.",
+      "suggested_source": "Published methodological comparison of SAF and NASH CRN scoring, or central-reader concordance data from the sponsor."
+    },
+    {
+      "topic": "Magnitude and differentiality of post-randomization GLP-1 drop-in (C08) in the NATiV3 population.",
+      "why_it_matters": "Asymmetric drop-in on placebo is a plausible mechanism for null bias; the size of the effect on the composite endpoint is unknown and not quantified in the ledger.",
+      "suggested_source": "Post-hoc or sensitivity analyses of concomitant GLP-1 use by arm; company disclosure of drop-in rates during the trial."
+    },
+    {
+      "topic": "Actual Week 72 biopsy evaluability and missing-biopsy rate.",
+      "why_it_matters": "The composite endpoint requires paired baseline and Week 72 biopsies; the dropout covenant (<30%) is a financing condition, not a biopsy-completion rate, and missing biopsies drive the imputation assumption.",
+      "suggested_source": "Company disclosure of biopsy completion rates or the final analysis dataset; regulatory review documents."
+    },
+    {
+      "topic": "Elafibranor RESOLVE-IT Phase 3 NASH failure has no peer-reviewed primary results publication (C16, tier C).",
+      "why_it_matters": "Class-level failure is a qualitative prior input; without a primary publication the mechanism of failure (efficacy vs safety vs population) cannot be assessed for relevance to lanifibranor.",
+      "suggested_source": "Genfit regulatory filings, conference abstracts, or FDA/EMA review documents for elafibranor in NASH."
+    },
+    {
+      "topic": "N=664 blinded pooled histology analysis (C17, tier D) has no located primary source.",
+      "why_it_matters": "If real, it could inform the blinded event-rate prior; as unverified it cannot enter the model and remains a future-work item.",
+      "suggested_source": "Company PR/deck archive or conference presentation explicitly reporting the N=664 blinded pooled analysis."
+    },
+    {
+      "topic": "Discrepancy between company topline (Q4 2026, Part A) and ClinicalTrials.gov primaryCompletionDate (2027-09-30, includes Part B ATE).",
+      "why_it_matters": "The registrational package may depend on Part B follow-up; the timing and content of the topline relative to the full primary completion affects interpretation of the readout.",
+      "suggested_source": "Company clarification of Part A vs Part B reporting, and the ClinicalTrials.gov record's outcome measure time frames."
+    }
+  ],
+  "llm_prior_suggestion": {
+    "delta_1200_pp_range": "12-20 pp",
+    "rationale": "Advisory only, not entering the model. Anchored on the ledger's within-drug Phase 2b composite separation (C11: 35%/25% vs 9%, i.e., 26/16 pp under SAF) and the company-reported Phase 2b composite effect size of 24% (C09), discounted for (i) the SAF-to-CRN paradigm shift (C11 gap), (ii) asymmetric post-randomization GLP-1 drop-in on placebo (C08), (iii) high baseline T2D (~55%) and GLP-1 (~14%) background therapy (C20), and (iv) the external ESSENCE 72-week CRN composite delta of 16.5 pp (C14) as a same-construct Phase 3 benchmark. The range is deliberately wide because the placebo composite rate is highly uncertain (C15 pooled 11% vs ESSENCE 34.3%)."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "run_id": "smoke1",
+  "role": "SMOKE",
+  "model_id": "deepseek-chat",
+  "ts_utc": "2026-10-08T07:22:46Z",
+  "latency_s": 0.73,
+  "temperature": 0,
+  "prompt_sha256": "c913cd27731347fe9715fb75a6663d743bfd1ddc5c03b0ddb71849449a1adb2b",
+  "response_sha256": "59f57843bfec7d6778b2a9a3a8352346420af3b19093034dddee2dbf36cabd09",
+  "usage": {
+    "in": 16,
+    "out": 13,
+    "cached": 0
+  },
+  "cost_usd": 1e-05,
+  "system": "Reply with valid JSON only.",
+  "user": "{\"ok\": true}",
+  "response": "{\"ok\":<|TOOL_CALL|>true}"
+}

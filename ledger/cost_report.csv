@@ -1,0 +1,8 @@
+ts_utc,run_id,role,model_id,prompt_tokens,completion_tokens,cached_tokens,unit_price_in,unit_price_out,cost_usd,cumulative_usd,note
+2026-10-08T07:00:00Z,-,-,-,0,0,0,0,0,0.00,0.00,"LLM 管线待 .env 密钥到位后运行；本表由 src/llm/pipeline.py 自动追加。开发期 AI 助手消耗单列于 REPORT.md §12（口径说明见 README）"
+2026-10-08T07:22:46Z,smoke1,SMOKE,deepseek-chat,16,13,0,0.28,0.42,1e-05,0.0,
+2026-10-08T07:22:55Z,20261008T072253Z_r1,R1,deepseek-chat,16262,305,0,0.28,0.42,0.00468,0.0047,
+2026-10-08T07:23:16Z,20261008T072253Z_r2,R2,deepseek-chat,4682,4319,0,0.28,0.42,0.00312,0.0078,
+2026-10-08T07:23:35Z,20261008T072253Z_r3,R3,deepseek-chat,5715,5014,0,0.28,0.42,0.00371,0.0115,
+2026-10-08T07:25:45Z,20261008T072519Z_r4,R4,deepseek-chat,7476,8192,0,0.28,0.42,0.00553,0.0171,
+2026-10-08T07:26:51Z,20261008T072641Z_r4,R4,deepseek-chat,7501,2309,7168,0.28,0.42,0.00126,0.0183,

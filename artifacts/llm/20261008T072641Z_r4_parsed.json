@@ -1,0 +1,72 @@
+{
+  "numbers_without_source": [
+    {
+      "value": "P = 0.753 (baseline success probability)",
+      "location": "REPORT.md §0 结论表 / §7 结果表",
+      "severity": "high"
+    },
+    {
+      "value": "I80 = [0.57, 0.89]",
+      "location": "REPORT.md §0 结论表 / §8.3",
+      "severity": "high"
+    },
+    {
+      "value": "MCSE ±0.001",
+      "location": "REPORT.md §0 结论表 / §7 结果表",
+      "severity": "medium"
+    },
+    {
+      "value": "假设矩阵 P 值：0.758 / 0.567 / 0.758 / 0.780 / 0.710",
+      "location": "REPORT.md §3 假设矩阵表",
+      "severity": "high"
+    },
+    {
+      "value": "情景分解 S1 0.959×0.20 + S2 0.867×0.45 + S3 0.581×0.25 + S4 0.256×0.10；观测率 pbo 6.4% / 800mg 11.7% / 1200mg 14.8%；设计反演 Δ≈11.5pp / 先验 Δ 中位 11.7pp",
+      "location": "REPORT.md §7 结果表",
+      "severity": "high"
+    }
+  ],
+  "claims_contradicting_ledger": [
+    {
+      "claim": "REPORT.md §0 一句话依据：'该复合终点在 Ph2b 的安慰剂调整效应量为 24–26pp（两个独立口径一致）'",
+      "ledger_entry": "C11 (A级) 报告 NATIVE 复合终点 SAF 口径为 35%/25% vs 9%，即安慰剂调整差值 26pp/16pp；C09 (B级) 报告公司口径复合效应量 24%。两个口径并不一致（16pp vs 24pp vs 26pp），报告将 16pp 忽略并声称'两个独立口径一致'。"
+    },
+    {
+      "claim": "REPORT.md §6 支持证据 1：'NEJM（SAF 口径）复合 35%/25% vs 9% [C11, A]；公司 deck（CRN-like，F2/F3）33%/24% vs 7%，效应量 24–26pp [C09, B]'",
+      "ledger_entry": "C11 的 verbatim quote 显示复合终点为 35% 和 25% vs 9%，对应效应量分别为 26pp 和 16pp，而非 24–26pp。C09 的 verbatim quote 仅提及'24% effect size on improvement of fibrosis and MASH resolution versus placebo'，未给出 33%/24% vs 7% 的应答率数据；该数据出现在 C09 的 note 中（'F2/F3: pbo7%/800mg24%/1200mg33%'），但 note 非 verbatim quote，且 33%−7%=26pp、24%−7%=17pp，同样不支持'24–26pp'的单一区间。"
+    },
+    {
+      "claim": "REPORT.md §6 支持证据 5：'非肝硬化 MASH 缓解安慰剂汇总 11%（8–14%）[C15, A]，复合终点安慰剂率必然更低（先验中位 ≈7%）'",
+      "ledger_entry": "C15 的 verbatim quote 为 'the pooled proportion of noncirrhotic placebo patients achieving MASH resolution without worsening of fibrosis was 11% (95% confidence interval [CI], 8%-14%)'，该终点为 MASH 缓解且纤维化不恶化，并非报告所引的复合终点（MASH 缓解且纤维化改善 ≥1 期）。报告将 C15 的 11% 作为复合终点安慰剂率的上限锚点，但 C15 实际测量的是更宽松的终点，其数值不能直接用于推断复合终点安慰剂率'必然更低'。"
+    },
+    {
+      "claim": "REPORT.md §3 假设矩阵：'两剂量须同时显著' 对应 P=0.567",
+      "ledger_entry": "C10 (A级) 显示 800mg 在 Ph2b 主终点未达统计学显著（p=0.07），但 C10 并未提供任何关于 NATiV3 SAP 多重性策略的信息。报告将'两剂量须同时显著'列为备选格并给出 P=0.567，但该数值无 ledger 或模型 artifact 支持（见 numbers_without_source）。"
+    }
+  ],
+  "quotes_failing_verbatim_check": [
+    {
+      "quote": "REPORT.md §3 判定式：'主终点事件 := (ballooning = 0 AND inflammation ∈ {0,1}) AND (纤维化分期较基线 ↓ ≥1) [C02, A级, verbatim]'",
+      "should_be": "C02 的 verbatim quote 为 'Resolution of NASH and improvement of fibrosis at Week 72, defined by NASH CRN scores for ballooning of 0 and inflammation of 0 to 1, and fibrosis score ≥1 stage decrease compared to Baseline'。报告中的判定式使用了数学符号（∈、↓、≥）和缩写，并非逐字引用，不应标注为 'verbatim'。"
+    },
+    {
+      "quote": "REPORT.md §6 支持证据 1：'公司 deck（CRN-like，F2/F3）33%/24% vs 7%'",
+      "should_be": "C09 的 verbatim quote 为 'Phase 2b showed 18% effect size on improvement of fibrosis with no worsening of MASH versus placebo after 6 months; Phase 2b showed 24% effect size on improvement of fibrosis and MASH resolution versus placebo'。该引文中不含 '33%/24% vs 7%' 或 'CRN-like' 或 'F2/F3' 等表述；这些数据仅出现在 C09 的 note 字段中，且 note 非 verbatim quote。"
+    },
+    {
+      "quote": "REPORT.md §6 支持证据 2：'semaglutide 72 周复合 32.7% vs 16.1%（Δ16.5pp）[C14, A]'",
+      "should_be": "C14 的 verbatim quote 为 'combined resolution of steatohepatitis and reduction in liver fibrosis was reported in 32.7% of the patients in the semaglutide group and in 16.1% of those in the placebo group (estimated difference, 16.5 percentage points; 95% CI, 10.2 to 22.8; P<0.001)'。报告中的 'Δ16.5pp' 是对 'estimated difference, 16.5 percentage points' 的缩写，并非逐字引用。"
+    }
+  ],
+  "logic_gaps": [
+    "报告 §0 声称'两个独立口径一致'，但 C11 的 SAF 口径复合终点效应量为 26pp（1200mg）和 16pp（800mg），C09 的公司口径为 24%（未区分剂量），两者并不一致；报告将 16pp 忽略并取 24–26pp 作为先验锚 Δ_ph2=26pp，存在选择性引用。",
+    "报告 §7 将 Δ_1200 的先验中位数设为 0.26·a0（a0 基线 0.5），即 13pp，但 §0 一句话依据称'即使按 50% 贴现，预期效应（≈12pp）仍落在 90% power 设计所需效应（≈10–12pp）的达成区内'。13pp 与 12pp 的差异未解释，且'达成区内'的表述暗示预期效应高于所需效应，但 13pp 仅略高于 12pp 上限，稳健性存疑。",
+    "报告 §3 将'两剂量须同时显著'列为备选格并给出 P=0.567，但该情景与 C10 中 800mg 未达显著（p=0.07）的历史证据直接相关；报告未说明该情景的概率权重或如何从 C10 推导出 0.567，存在逻辑跳跃。",
+    "报告 §8.4 承认'SAP 原文未公开；若真实 SAP 采用“两剂量同时显著 + 可评估人群”等极端组合，P 可能低于矩阵覆盖范围'，但 §7 判定规则仍基于 P_base≥0.50 且 I80 下界≥0.35 得出 positive 结论。若极端 SAP 组合未被矩阵覆盖，则判定规则的稳健性不足，结论可能过于乐观。",
+    "报告 §6 反对证据 3 称'GLP-1 drop-in 允许（随机化后可启用）[C08, B] → 安慰剂臂上行 +1.5pp（敏感性 0–3pp）'，但 C08 的 verbatim quote 仅说明 'Patients can initiate a GLP-1-R after randomization into the study'，未提供任何关于安慰剂臂上行幅度的数据；+1.5pp 及其敏感性范围无 ledger 支持。"
+  ],
+  "overall": {
+    "pass": false,
+    "summary": "报告存在多项严重问题：(1) 核心概率数值（P=0.753、I80、假设矩阵各格 P 值、情景分解、观测率、设计反演等）均无法追溯至 evidence.csv 或可验证的模型 artifact，违反'每个事实陈述必须携带逐字引用'的要求；(2) 多处声称'verbatim'的引用实际为改写或缩写，且部分数据（如 33%/24% vs 7%、+1.5pp）仅存在于 ledger 的 note 字段而非 verbatim quote；(3) 报告声称'两个独立口径一致'与 C11/C09 的实际数据矛盾，存在选择性引用；(4) 判定逻辑依赖未公开的 SAP 槽位假设，且极端组合可能使 P 低于矩阵覆盖范围，但报告仍给出 positive 结论。因此，该预测报告未通过审计。"
+  }
+}

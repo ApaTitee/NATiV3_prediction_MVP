@@ -1,0 +1,11 @@
+factor,side,value,P_success
+q_R_mean,low,0.08,0.7649
+q_R_mean,high,0.14,0.74228
+q_F_mean,low,0.1,0.76492
+q_F_mean,high,0.18,0.74097
+rho_mean,low,0.3,0.77843
+rho_mean,high,0.7,0.72938
+d_mean,low,0.2,0.76898
+d_mean,high,0.4,0.71719
+glp1,low,0.0,0.77436
+glp1,high,0.03,0.74213

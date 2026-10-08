@@ -1,0 +1,35 @@
+{
+  "primary_endpoint": {
+    "definition_verbatim": "The effect of lanifibranor will be assessed on several histological endpoints, including MASH resolution and improvement of fibrosis of at least one stage after 72 weeks of treatment.",
+    "type": null,
+    "timeframe": "72 weeks"
+  },
+  "arms": [
+    "lanifibranor (800mg/daily and 1200mg/daily)",
+    "placebo"
+  ],
+  "main_cohort_n": 1009,
+  "exploratory_cohort_n": 410,
+  "randomization_ratio": null,
+  "stratification_factors": [],
+  "power_statement": {
+    "value": null,
+    "verbatim": null
+  },
+  "glp1_policy": {
+    "verbatim": null
+  },
+  "dropout_statement": {
+    "value": null,
+    "verbatim": "at the time of completion of enrollment in NATiV3, a drop-out rate of less than 30% before week 72"
+  },
+  "timeline": {
+    "lplv": "September 2nd, 2026",
+    "topline": "Q4 2026"
+  },
+  "statistical_methods_mentioned": [],
+  "alpha": null,
+  "multiplicity": null,
+  "imputation": null,
+  "estimand": null
+}

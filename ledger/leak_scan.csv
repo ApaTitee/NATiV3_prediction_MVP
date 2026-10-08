@@ -1,0 +1,8 @@
+check_id,query,source,retrieved_at_utc,hit_count,verdict,evidence_path,note
+L1,CTG NCT04849728 resultsSection present?,ctgov,2026-10-08T07:29:02Z,0,no-leak,data\snapshots\ctgov\20261008T062234Z_NCT04849728_full.json,"JSON 键断言；status=ACTIVE_NOT_RECRUITING, lastUpdatePost=2026-07-02"
+L2,"EPMC: TITLE_ABS:""lanifibranor"" AND FIRST_PDATE:[2026 TO 2026]",pubmed,2026-10-08T07:29:02Z,11,no-leak,data\snapshots\pubmed\20261008T063423Z_Q6_lanifibranor_2026_epmc.json,11 篇 2026 文献逐条判读：全部为临床前/综述/meta，无 NATiV3 疗效数据
+L3,Inventiva press-releases page: NATiV3 titles w/ efficacy keywords,company_pr,2026-10-08T07:29:02Z,0,no-leak,data\snapshots\company_pr\20261008T062338Z_ir_press_list.html,初扫 4 个关键词命中均为 Ph2 历史标题（NATIVE topline 2020 / Cusi Ph2 2023）；NATiV3 相关标题零疗效命中
+L4,AASLD The Liver Meeting 2026 abstracts PR full text,company_pr,2026-10-08T07:29:02Z,0,no-leak,data\snapshots\company_pr\20261008T063033Z_pr_2026-10-06_aasld2026_abstracts.pdf,3 篇摘要全部为临床前/转化研究（cfDNA 甲基化、肝细胞群、LSEC）；明确 'topline results expected in Q4 of this year'
+L5,PR full text: lplv,company_pr,2026-10-08T07:29:02Z,0,no-leak,data\snapshots\company_pr\20261008T063034Z_pr_2026-09-02_lplv.pdf,仅时间线表述（topline expected Q4 2026），无疗效数据
+L5,PR full text: h1_2026_financial,company_pr,2026-10-08T07:29:02Z,0,no-leak,data\snapshots\company_pr\20261008T063036Z_pr_2026-09-28_h1_2026_financial.pdf,仅时间线表述（topline expected Q4 2026），无疗效数据
+L6,web: 'NATiV3 topline results' / 'primary endpoint met' / 'results announcement',web_search(exa),2026-10-08T07:29:02Z,0,no-leak,web_search responseId=muz616ca896lmo,3 查询 × 5 结果：biospace/nasdaq/FT/clinicaltrialvanguard 等均仅复述 'topline expected Q4 2026'，无疗效数据

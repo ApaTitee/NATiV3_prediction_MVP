@@ -1,0 +1,33 @@
+{
+  "_doc": "全部参数可回溯到 artifacts/evidence.csv 的 claim_id；改动须记 analysis_plan.md amendment",
+  "design": {
+    "n_per_arm": 336,
+    "arms": ["pbo", "lani800", "lani1200"],
+    "alpha_two_sided": 0.05,
+    "target_power": 0.90
+  },
+  "placebo": {
+    "q_R_mean": 0.11, "q_R_conc": 80, "_q_R": "C15 meta 11% (8-14%)",
+    "q_F_mean": 0.14, "q_F_conc": 60, "_q_F": "C13 MAESTRO pbo 14.2%; ESSENCE 22.4% 视为 GLP-1 试验离群",
+    "rho_mean": 0.5, "rho_sd": 0.12, "_rho": "分项相关，敏感性 {0.3,0.5,0.7}"
+  },
+  "effect": {
+    "delta_1200_ph2": 0.26, "_d1200": "C09 deck F2/F3 CRN-like 双终点 7→33%；C11 NEJM SAF 复合 9→35%；两口径一致 26pp",
+    "delta_800_over_1200": 0.63, "_ratio": "C11 800mg 复合 Δ=16pp / 1200mg 26pp ≈ 0.63",
+    "a0_base": 0.5, "a0_grid": [0.3, 0.5, 0.7], "_a0": "Ph2→Ph3 贴现（终点 CRN 口径/人群/执行/脱落），敏感性网格",
+    "delta_sd": 0.05
+  },
+  "dropout": {
+    "d_mean": 0.275, "d_conc": 40, "_d": "C05 融资条款 W72 前 <30%（2025-04 时点）；中心 27.5%，范围 20-40%",
+    "nri_attenuation": 1.0, "mi_attenuation": 0.5, "_att": "NRI: π_obs=π(1-d)；MI: 衰减减半"
+  },
+  "glp1_uplift_pbo_pp": 0.015, "_glp1": "C08 允许随机化后启用 GLP-1；~10% 渗透 × 复合效应 → +1.5pp，敏感性 0-3pp",
+  "scenarios": {
+    "_doc": "混合先验组分；权重冻结于 analysis_plan.md §4",
+    "S1_optimistic": {"weight": 0.20, "a0": 0.65, "pbo_shift_pp": 0.0, "glp1_pp": 0.01},
+    "S2_neutral":    {"weight": 0.45, "a0": 0.50, "pbo_shift_pp": 0.0, "glp1_pp": 0.015},
+    "S3_conservative":{"weight": 0.25, "a0": 0.30, "pbo_shift_pp": 0.02, "glp1_pp": 0.03},
+    "S4_pessimistic": {"weight": 0.10, "a0": 0.05, "pbo_shift_pp": 0.0, "glp1_pp": 0.015}
+  },
+  "mc": {"M": 200000, "seed": 42}
+}

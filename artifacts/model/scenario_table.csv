@@ -1,0 +1,5 @@
+scenario,weight,P_given_scenario,contribution
+S1_optimistic,0.2,0.9589301337332833,0.1918
+S2_neutral,0.45,0.8671235611151773,0.3902
+S3_conservative,0.25,0.5806276403138202,0.1452
+S4_pessimistic,0.1,0.25612848689771767,0.0256

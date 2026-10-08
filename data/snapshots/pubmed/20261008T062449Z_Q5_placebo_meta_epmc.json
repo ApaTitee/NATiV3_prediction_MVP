@@ -1,0 +1,1 @@
+{"version":"6.9","hitCount":0,"request":{"queryString":"(placebo[tiab]) AND (NASH[tiab] OR MASH[tiab]) AND (meta-analysis[pt] OR meta-analysis[tiab]) AND (histolog*[tiab] OR resolution[tiab] OR fibrosis[tiab])","resultType":"core","cursorMark":"*","pageSize":50,"sort":"","synonym":false},"resultList":{"result":[]}}

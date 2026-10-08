@@ -1,0 +1,8 @@
+{
+  "cutoff_utc": "2026-10-08T07:00:00Z",
+  "declared_local": "2026-10-08T15:00:00+08:00",
+  "amendment": "A1: 初稿设为 06:19:29Z（冻结宣告时刻），P1 采集完成后收紧为 07:00:00Z；全部快照 retrieved_at ∈ [06:22:34Z, 06:57Z] ≤ cutoff。详见 analysis_plan.md Amendments。",
+  "rule": "一切进入模型的证据必须有 retrieved_at_utc <= cutoff_utc；cutoff 之后出现的疗效信息只触发作废/重记程序，禁止回改既有预测。",
+  "leak_scan": "ledger/leak_scan.csv — 全部查询结论 no-leak（截至 2026-10-08T07:00Z）",
+  "attestation": "Predictions will use only public information retrieved at or before cutoff_utc; no post-cutoff information will be used."
+}

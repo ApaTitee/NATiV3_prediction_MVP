@@ -1,0 +1,73 @@
+{
+  "_snapshot": "data\\snapshots\\ctgov\\20261008T062234Z_NCT04849728_full.json",
+  "nctId": "NCT04849728",
+  "briefTitle": "A Phase 3 Study Evaluating Efficacy and Safety of Lanifibranor Followed by an Active Treatment Extension in Adult Patients With (NASH) and Fibrosis Stages F2 and F3 ( NATiV3 )",
+  "overallStatus": "ACTIVE_NOT_RECRUITING",
+  "startDate": {
+    "date": "2021-08-19",
+    "type": "ACTUAL"
+  },
+  "primaryCompletionDate": {
+    "date": "2027-09-30",
+    "type": "ESTIMATED"
+  },
+  "completionDate": {
+    "date": "2027-09-30",
+    "type": "ESTIMATED"
+  },
+  "lastUpdatePostDate": {
+    "date": "2026-07-02",
+    "type": "ACTUAL"
+  },
+  "hasResultsSection": false,
+  "phases": [
+    "PHASE3"
+  ],
+  "enrollmentInfo": {
+    "count": 1000,
+    "type": "ESTIMATED"
+  },
+  "allocation": "RANDOMIZED",
+  "masking": {
+    "masking": "QUADRUPLE",
+    "whoMasked": [
+      "PARTICIPANT",
+      "CARE_PROVIDER",
+      "INVESTIGATOR",
+      "OUTCOMES_ASSESSOR"
+    ]
+  },
+  "primaryOutcomes": [
+    {
+      "measure": "Resolution of NASH and improvement of fibrosis",
+      "description": "Part A: DBPC: Resolution of NASH and improvement of fibrosis at Week 72, defined by NASH CRN scores for ballooning of 0 and inflammation of 0 to 1, and fibrosis score ≥1 stage decrease compared to Baseline",
+      "timeFrame": "Part A: Date of randomisation until the date of biopsy at Week 72"
+    },
+    {
+      "measure": "Safety Analyses",
+      "description": "Part B: ATE:\n\n* Using the DBPC on-treatment period, comparing the 2 active arms versus placebo\n* Using the DBPC +ATE on treatment periods, assessing the 2 active arms. For adverse events, adjudicated liver events, and DILI and MACE events, in addition to the raw cumulative incidence proportions, the exposure-adjusted incidence rates will be provided based on the time patients are at risk.",
+      "timeFrame": "48 weeks after completion of DBPC period"
+    }
+  ],
+  "secondaryOutcomes": [],
+  "arms": [
+    {
+      "label": "Lanifibranor (IVA 337) (800 mg/day)",
+      "type": "EXPERIMENTAL",
+      "description": "2 Lanifibranor tablets 400mg + 1 Placebo to match tablet with food --\\> once a day (quaque die, QD)"
+    },
+    {
+      "label": "Lanifibranor (IVA 337) (1200 mg/day)",
+      "type": "EXPERIMENTAL",
+      "description": "3 Lanifibranor tablets 400mg with food --\\> once a day (quaque die, QD)"
+    },
+    {
+      "label": "Matching placebo",
+      "type": "PLACEBO_COMPARATOR",
+      "description": "3 Placebo to match tablets with food --\\> once a day (quaque die, QD)"
+    }
+  ],
+  "eligibilityCriteria_head": "Prescreening Criteria:\n\n* Diagnosed with NASH on prior liver biopsy\n* Type 2 diabetes with high waist circumference or obesity or hepatic steatosis on ultrasound\n* At least 3 of the components of metabolic syndrome\n\nInclusion Criteria:\n\n1. Male or female, aged ≥18 years at the time of signing informed consent\n2. Upon central biopsy reading process: diagnosis of NASH according to the Steatosis-Activity-Fibrosis (SAF):\n\n   1. Steatosis score ≥1\n   2. Activity score: A3 or A4\n   3. Fibrosis score: F2 or F3\n3. No qualitative change in dose for the drugs listed below:\n\n   1. Antidiabetic treatment if glucagon-like peptide-1 receptor agonists (GLP1 receptor agonists) or sodium-glucose co-transporter-2 inhibitors (SGLT2 inhibitors): for at least 3 months\n   2. Vitamin E (if at a dose ≥400 IU/day): for at least 6 months\n   3. Statins: for at least 3 months\n4. No qualitative change in dose for all other chronically administered drugs for at least 3 months prior to Screening\n5. Weight stable for 6 months prior to Screening and between the qualifying liver biopsy and Baseline (no more than 5% change for both periods)\n6. Negative serum pregnancy test at study Screening for females of childbearing potential confirmed by central laboratory. Females of childbearing potential must practice a consistent and proper use of highly effective method of contraception throughout the study and for 1 month after treatment discontinuation.\n\nExclusion Criteria:\n\nLiver-related:\n\n1. Documented causes of chronic liver disease other than NASH\n2. Histologically documented liver cirrhosis (fibrosis stage F4)\n3. History or current diagnosis of hepatocellular carcinoma (HCC)\n4. History of or planned liver transplant\n5. Positive human immunodeficiency virus (HIV) serology\n6. ALT or AST \\>5 × ULN\n7. AST\\<0.6 ULN if the liver biopsy has to be performed in the scope of the study\n8. Abnormal synthetic liver function as defined by Screening central laboratory evaluation\n9. Haemoglobin \\<110 g/L (11 g/dL) for females and \\<120 g/L (12 g/dL) for males\n10. Patient currently receiving any approved treatment for NASH or obesity\n11. Current or recent history (\\<5 years) of significant alcohol consumption\n12. Treatment with drugs that may cause non-alcoholic fatty liver disease (NAFLD) administered for at least 2 weeks within 12 months prior to qualifying liver biopsy\n\n    Glycaemia related:\n13. HbA1c \\>9% at Screening\n14. Diabetes mellitus other than type 2\n15. Current treatment with insulin\n16. Treatment with PPAR-gamma agonists (thiazolidinediones \\[TZDs\\]) 12 months before screening or historical biopsy.\n\n    Obesity related:\n17. Bariatric surgery: Restrictive procedures are allowed, if performed \\>6 months prior to the qualifying liver biopsy; malabsorptive procedures and procedures combining both restrictive and malabsorptive methods are not allowed within 5 years of the qualifying liver biopsy.\n\n    Cardiovascular related:\n18. History of heart failure with reduced left ventricular ejecti",
+  "sex": "ALL",
+  "minimumAge": "18 Years"
+}

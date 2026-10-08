@@ -1,0 +1,116 @@
+{
+  "endpoint_misreading_risks": [
+    {
+      "risk": "Ph2b NATIVE primary endpoint was SAF-A decrease ≥2 with no worsening of fibrosis, NOT the Ph3 CRN composite; the model's pi_obs_mean (pbo 6.4%, 800 11.7%, 1200 14.8%) is a CRN-composite rate that cannot be directly anchored to the NATIVE 35%/25%/9% composite because the histologic scoring systems differ (SAF vs NASH CRN).",
+      "severity": "high",
+      "evidence": "C11 verbatim: \"resolution of NASH plus improvement in fibrosis stage of at least 1 (35% and 25%, respectively, vs. 9%)\" — SAF-based; C02 verbatim: \"Resolution of NASH and improvement of fibrosis at Week 72, defined by NASH CRN scores for ballooning of 0 and inflammation of 0 to 1, and fibrosis score ≥1 stage decrease compared to Baseline\" — CRN-based. C11 note: \"SAF 口径 vs Ph3 CRN 口径需注明\"."
+    },
+    {
+      "risk": "The model treats the primary as a single composite event, but the design_card lists key secondaries (MASH resolution with no worsening of fibrosis; fibrosis improvement with no worsening of MASH) that are components of the composite. If the SAP uses a fixed-sequence or hierarchical gate where the composite must be significant before secondaries, the effective alpha for the composite is unchanged, but if the SAP uses Hochberg across composite + secondaries, the model's 'any dose significant' rule overstates power.",
+      "severity": "medium",
+      "evidence": "design_card primary_endpoint.key_secondaries: [\"MASH resolution with no worsening of fibrosis\", \"fibrosis improvement with no worsening of MASH\"]; success_criterion_slots.multiplicity: {\"value\": \"Hochberg (2 doses vs shared placebo)\", \"status\": \"assumed\", \"note\": \"未公开；基线假设，矩阵含固定顺序/须同时显著\"}."
+    },
+    {
+      "risk": "The model's placebo composite rate (6.4%) is far below the ESSENCE 72-week CRN composite placebo rate (16.1%) and the meta-analytic MASH resolution placebo rate (11%). If the true placebo composite rate is ~16%, the observed treatment difference shrinks and power drops materially.",
+      "severity": "high",
+      "evidence": "C14 verbatim: \"combined resolution of steatohepatitis and reduction in liver fibrosis was reported in 32.7% of the patients in the semaglutide group and in 16.1% of those in the placebo group (estimated difference, 16.5 percentage points; 95% CI, 10.2 to 22.8; P<0.001)\"; C15 verbatim: \"the pooled proportion of noncirrhotic placebo patients achieving MASH resolution without worsening of fibrosis was 11% (95% confidence interval [CI], 8%-14%)\"; verdict.pi_obs_mean_base.pbo = 0.06441093048258319."
+    },
+    {
+      "risk": "The model assumes NRI for missing biopsies, but the design_card notes a <30% dropout covenant. If dropout is near 30% and missing biopsies are imputed as non-responders, the observed responder rate is diluted by ~30% relative to completers; the model's NRI cell (P=0.75284) vs MI cell (P=0.78005) shows only a 2.7pp swing, which is implausibly small for a 30% missingness rate under NRI vs MI.",
+      "severity": "high",
+      "evidence": "C05 verbatim: \"a drop-out rate of less than 30% before week 72\"; assumption_matrix rows: base: hochberg/NRI/α.05-2s/any-dose P=0.75284; missing=MI P=0.78005; design_card.success_criterion_slots.missing_biopsy: {\"value\": \"NRI (non-responder imputation)\", \"status\": \"assumed\"}."
+    },
+    {
+      "risk": "The model's pi_obs_mean for 1200 mg (14.77%) is below the NATIVE 24-week composite rate for 1200 mg (25%) and far below the ESSENCE semaglutide composite (32.7%). If the true 1200 mg composite rate is ~25%, the model is conservative on effect size but the placebo rate is also likely higher, so the net power effect is ambiguous.",
+      "severity": "medium",
+      "evidence": "C11 verbatim: \"resolution of NASH plus improvement in fibrosis stage of at least 1 (35% and 25%, respectively, vs. 9%)\"; C14 verbatim: \"combined resolution of steatohepatitis and reduction in liver fibrosis was reported in 32.7% of the patients in the semaglutide group\"; verdict.pi_obs_mean_base['1200'] = 0.14770501867130426."
+    }
+  ],
+  "missing_assumption_cells": [
+    {
+      "cell": "GLP-1 drop-in allowed after randomization (C08) — model does not include a cell for differential GLP-1 initiation by arm",
+      "why_plausible": "C08 verbatim: \"Patients can initiate a GLP-1-R after randomization into the study\"; C20 verbatim: \"GLP-1 RA 14.0% 0.0%\" (baseline GLP-1 use ~14%). If GLP-1 initiation is differential (e.g., more in placebo arm due to lack of efficacy), the placebo arm may have inflated response, shrinking the treatment difference.",
+      "expected_direction_on_P": "decrease"
+    },
+    {
+      "cell": "Stratification factors (fibrosis stage, diabetic status) are assumed to be balanced and the CMH test is assumed to be correctly specified; no cell for stratification imbalance or for the possibility that the SAP uses a different stratified test (e.g., logistic regression with covariates)",
+      "why_plausible": "design_card.design.stratification: [\"fibrosis stage\", \"diabetic status\"]; success_criterion_slots.test: {\"value\": \"CMH stratified (fibrosis stage, diabetic status)\", \"status\": \"assumed\", \"note\": \"分层因素见 C07；以两比例 z 近似\"}. C07 verbatim: \"90% considered for sample size calculations\".",
+      "expected_direction_on_P": "ambiguous"
+    },
+    {
+      "cell": "No cell for the exploratory cohort (F1/F4, n=410) being excluded from the primary analysis; if the SAP pools main + exploratory cohorts, the population is diluted with F1/F4 patients who have different response rates",
+      "why_plausible": "design_card.population.exploratory_cohort: \"F1/F4 (screen-failed for main cohort)\"; C05 verbatim: \"1009 patients randomized in the main cohort and 410 patients in the exploratory cohort exceeding the original target of 969 and 350\".",
+      "expected_direction_on_P": "decrease"
+    },
+    {
+      "cell": "No cell for the interim alpha spend being non-zero; the model assumes no efficacy interim, but if the SAP includes an interim efficacy analysis, the final alpha is reduced",
+      "why_plausible": "success_criterion_slots.interim_alpha_spend: {\"value\": \"none\", \"status\": \"assumed\", \"note\": \"未见任何 efficacy interim 证据；5 次 DMC 均为安全性审查\"}; C05 verbatim: \"5th DMC positive recommendation (2024-10-30), safety only\".",
+      "expected_direction_on_P": "decrease"
+    },
+    {
+      "cell": "No cell for the possibility that the primary analysis is on the ITT population but with a per-protocol sensitivity analysis that could be used for approval; the model only uses ITT",
+      "why_plausible": "success_criterion_slots.estimand: {\"value\": \"ITT\", \"status\": \"assumed\"}; C18 verbatim: \"Intended filing for Accelerated Approval (FDA) and Conditional Approval (EMA), subject to positive Phase 3 histology results\".",
+      "expected_direction_on_P": "ambiguous"
+    }
+  ],
+  "prior_attacks": [
+    {
+      "parameter": "pi_obs_mean_base.pbo = 0.0644",
+      "attack": "The placebo composite rate is set at 6.4%, but the only same-endpoint (72-week CRN composite) Ph3 benchmark, ESSENCE, reports 16.1% placebo (C14). The meta-analytic MASH resolution placebo rate is 11% (C15). A 6.4% placebo rate is an outlier that inflates the treatment difference and power.",
+      "suggested_fix": "Re-run with placebo composite rate calibrated to ESSENCE (16.1%) and to the meta-analytic 11% (C15), and report the power sensitivity."
+    },
+    {
+      "parameter": "pi_obs_mean_base['1200'] = 0.1477",
+      "attack": "The 1200 mg composite rate is set at 14.8%, but NATIVE 24-week composite for 1200 mg was 25% (C11) and ESSENCE semaglutide composite was 32.7% (C14). The model's effect size is not anchored to the Ph2b composite; it appears to be a CRN-calibrated guess.",
+      "suggested_fix": "Anchor the 1200 mg composite rate to the NATIVE 25% (C11) with a discount for the longer 72-week duration and CRN vs SAF scoring, and report the power sensitivity."
+    },
+    {
+      "parameter": "missing_biopsy = NRI",
+      "attack": "The model assumes NRI, but the dropout covenant is <30% (C05). Under NRI, a 30% dropout rate mechanically caps the observed responder rate at 70% of the completer rate. The model's NRI vs MI swing (0.75284 vs 0.78005) is only 2.7pp, which is too small for a 30% missingness rate; the model likely applies missingness at the patient level without accounting for the biopsy-missing mechanism.",
+      "suggested_fix": "Re-run with a missingness rate of 30% and a biopsy-missing mechanism that is not MCAR (e.g., missing biopsies enriched in non-responders), and report the power sensitivity."
+    },
+    {
+      "parameter": "multiplicity = Hochberg (2 doses vs shared placebo)",
+      "attack": "The model assumes Hochberg, but the SAP is not public (success_criterion_slots.multiplicity.status = 'assumed'). If the SAP uses a fixed-sequence (1200→800) or a gatekeeping procedure, the power for the 800 mg dose is lower. The assumption_matrix shows both_doses_required P=0.566725 vs base P=0.75284, a 18.6pp swing.",
+      "suggested_fix": "Report the power under fixed-sequence, Hochberg, and both-required, and treat the base as the most optimistic."
+    },
+    {
+      "parameter": "alpha_two_sided = 0.05",
+      "attack": "The model assumes two-sided alpha 0.05, but the SAP is not public. If the SAP uses a one-sided 0.025 (equivalent to two-sided 0.05), the power is unchanged; but if the SAP uses a two-sided 0.025 (one-sided 0.0125), the power drops to 0.710255 (assumption_matrix). The model's base is the most optimistic alpha.",
+      "suggested_fix": "Report the power under two-sided 0.05 and two-sided 0.025, and treat the base as the most optimistic."
+    },
+    {
+      "parameter": "test = CMH stratified (fibrosis stage, diabetic status)",
+      "attack": "The model assumes CMH stratified by fibrosis stage and diabetic status, but the SAP is not public. If the SAP uses a different test (e.g., logistic regression with covariates, or a Cochran-Armitage trend test), the power may differ. The model's 'two-proportion z approximation' may not match the actual stratified test.",
+      "suggested_fix": "Re-run with a logistic regression with stratification covariates and report the power sensitivity."
+    }
+  ],
+  "leakage_vectors_not_covered": [
+    {
+      "vector": "ClinicalTrials.gov resultsSection: C01 verbatim: \"overallStatus\":\"ACTIVE_NOT_RECRUITING\" and hasResultsSection=false. The model assumes no results are posted, but the lastUpdatePostDate is 2026-07-02, after LPLV 2026-09. If the sponsor posts results before the topline, the model's blind assumption is violated.",
+      "likelihood": "low"
+    },
+    {
+      "vector": "Company PR/deck leakage: C06 verbatim: \"Topline results of NATiV3 expected in Q4 2026\"; C18 verbatim: \"Intended filing for Accelerated Approval (FDA) and Conditional Approval (EMA), subject to positive Phase 3 histology results\". If the company pre-announces topline before the formal readout, the model's blind assumption is violated.",
+      "likelihood": "medium"
+    },
+    {
+      "vector": "DMC leakage: C05 verbatim: \"5th DMC positive recommendation (2024-10-30), safety only\". If the DMC saw efficacy data (even if labeled safety-only), the model's assumption of no efficacy interim is violated.",
+      "likelihood": "low"
+    },
+    {
+      "vector": "GLP-1 drop-in leakage: C08 verbatim: \"Patients can initiate a GLP-1-R after randomization into the study\". If GLP-1 initiation is differential by arm, the placebo arm may have inflated response, shrinking the treatment difference. The model does not include a cell for this.",
+      "likelihood": "high"
+    },
+    {
+      "vector": "Exploratory cohort leakage: C05 verbatim: \"1009 patients randomized in the main cohort and 410 patients in the exploratory cohort exceeding the original target of 969 and 350\". If the exploratory cohort (F1/F4) is pooled with the main cohort, the population is diluted. The model does not include a cell for this.",
+      "likelihood": "medium"
+    }
+  ],
+  "strongest_bear_case": "The model's base case (P=0.75284) is built on a placebo composite rate of 6.4% (verdict.pi_obs_mean_base.pbo = 0.06441093048258319), which is less than half the ESSENCE 72-week CRN composite placebo rate of 16.1% (C14 verbatim: \"combined resolution of steatohepatitis and reduction in liver fibrosis was reported in 32.7% of the patients in the semaglutide group and in 16.1% of those in the placebo group (estimated difference, 16.5 percentage points; 95% CI, 10.2 to 22.8; P<0.001)\") and below the meta-analytic MASH resolution placebo rate of 11% (C15 verbatim: \"the pooled proportion of noncirrhotic placebo patients achieving MASH resolution without worsening of fibrosis was 11% (95% confidence interval [CI], 8%-14%)\"). The 1200 mg composite rate of 14.8% (verdict.pi_obs_mean_base['1200'] = 0.14770501867130426) is below the NATIVE 24-week composite of 25% (C11 verbatim: \"resolution of NASH plus improvement in fibrosis stage of at least 1 (35% and 25%, respectively, vs. 9%)\") and far below the ESSENCE semaglutide composite of 32.7% (C14). If the true placebo composite rate is 16% and the true 1200 mg composite rate is 25%, the treatment difference is 9pp, not the model's 8.3pp, but the placebo rate is 2.5x higher, so the sample size of 336 per arm gives power well below 90%. The model's NRI assumption (success_criterion_slots.missing_biopsy: {\"value\": \"NRI (non-responder imputation)\", \"status\": \"assumed\"}) combined with a <30% dropout covenant (C05 verbatim: \"a drop-out rate of less than 30% before week 72\") means that up to 30% of patients are imputed as non-responders, mechanically capping the observed responder rate at 70% of the completer rate. The model's NRI vs MI swing (0.75284 vs 0.78005) is only 2.7pp, which is implausibly small for a 30% missingness rate; the model likely applies missingness at the patient level without accounting for the biopsy-missing mechanism. Finally, the model assumes Hochberg multiplicity (success_criterion_slots.multiplicity: {\"value\": \"Hochberg (2 doses vs shared placebo)\", \"status\": \"assumed\"}), but if the SAP uses a fixed-sequence (1200→800) or a gatekeeping procedure, the power for the 800 mg dose is lower; the assumption_matrix shows both_doses_required P=0.566725 vs base P=0.75284, an 18.6pp swing. The bear case is that the true P is closer to 0.50, not 0.75.",
+  "strongest_bull_case": "The model's base case (P=0.75284) is supported by the NATIVE Ph2b 24-week composite of 35% for 1200 mg vs 9% for placebo (C11 verbatim: \"resolution of NASH plus improvement in fibrosis stage of at least 1 (35% and 25%, respectively, vs. 9%)\"), a 26pp treatment difference that is larger than the model's assumed 8.3pp difference (verdict.pi_obs_mean_base['1200'] - verdict.pi_obs_mean_base.pbo = 0.14770501867130426 - 0.06441093048258319 = 0.0833). The NATIVE 1200 mg dose also met the primary endpoint with 55% vs 33% (p=0.007) (C10 verbatim: \"1200-mg dose vs. placebo, 55% vs. 33%, P = 0.007; 800-mg dose vs. placebo, 48% vs. 33%, P = 0.07\"). The ESSENCE 72-week CRN composite benchmark shows a 16.5pp treatment difference (C14 verbatim: \"estimated difference, 16.5 percentage points; 95% CI, 10.2 to 22.8; P<0.001\"), which is larger than the model's assumed 8.3pp difference. The NATIVE safety profile shows AE dropout <5% (C12 verbatim: \"The dropout rate for adverse events was less than 5% and was similar across the trial groups\"), supporting the <30% dropout covenant (C05 verbatim: \"a drop-out rate of less than 30% before week 72\"). The sample size of 1009 in the main cohort (C05 verbatim: \"1009 patients randomized in the main cohort and 410 patients in the exploratory cohort exceeding the original target of 969 and 350\") exceeds the target of 969, providing 90% power (C07 verbatim: \"90% considered for sample size calculations\"). The bull case is that the true P is closer to 0.85, not 0.75.",
+  "verdict_challenge": {
+    "agree": false,
+    "reasoning": "The verdict's P_base=0.75284 is not robust to the most plausible alternative assumptions. The placebo composite rate of 6.4% (verdict.pi_obs_mean_base.pbo = 0.06441093048258319) is an outlier relative to the ESSENCE 72-week CRN composite placebo rate of 16.1% (C14) and the meta-analytic MASH resolution placebo rate of 11% (C15). The 1200 mg composite rate of 14.8% (verdict.pi_obs_mean_base['1200'] = 0.14770501867130426) is below the NATIVE 24-week composite of 25% (C11) and far below the ESSENCE semaglutide composite of 32.7% (C14). The model's NRI vs MI swing (0.75284 vs 0.78005) is only 2.7pp, which is implausibly small for a 30% missingness rate (C05 verbatim: \"a drop-out rate of less than 30% before week 72\"). The model's Hochberg assumption (success_criterion_slots.multiplicity: {\"value\": \"Hochberg (2 doses vs shared placebo)\", \"status\": \"assumed\"}) is not public; if the SAP uses a fixed-sequence or gatekeeping procedure, the power for the 800 mg dose is lower (assumption_matrix both_doses_required P=0.566725 vs base P=0.75284). The model's alpha assumption (success_criterion_slots.alpha_two_sided: {\"value\": 0.05, \"status\": \"assumed\"}) is not public; if the SAP uses a two-sided 0.025, the power drops to 0.710255 (assumption_matrix). The model's test assumption (success_criterion_slots.test: {\"value\": \"CMH stratified (fibrosis stage, diabetic status)\", \"status\": \"assumed\"}) is not public; if the SAP uses a different test, the power may differ. The verdict's I80_robustness [0.569763, 0.8921640000000001] is wide, and the lower bound is below the 0.50 threshold. The verdict's rule (positive ⟺ P_base≥0.50 且 I80下界≥0.35) is met, but the I80 lower bound of 0.569763 is only 7pp above the 0.50 threshold, and the scenario_table shows S4_pessimistic P=0.25612848689771767 with weight 0.1, which is a non-trivial probability of failure. The verdict should be downgraded to borderline or the model should be re-run with the alternative assumptions above."
+  }
+}

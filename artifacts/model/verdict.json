@@ -1,0 +1,69 @@
+{
+  "verdict": "positive",
+  "P_base": 0.75284,
+  "MCSE_base": 0.0009645515393176252,
+  "I80_robustness": [
+    0.569763,
+    0.8921640000000001
+  ],
+  "rule": "positive ⟺ P_base≥0.50 且 I80下界≥0.35；|P−0.5|<5pp→borderline（analysis_plan §1）",
+  "pi_obs_mean_base": {
+    "pbo": 0.06441093048258319,
+    "800": 0.11691184472145727,
+    "1200": 0.14770501867130426
+  },
+  "scenario_table": [
+    {
+      "scenario": "S1_optimistic",
+      "weight": 0.2,
+      "P_given_scenario": 0.9589301337332833,
+      "contribution": 0.1918
+    },
+    {
+      "scenario": "S2_neutral",
+      "weight": 0.45,
+      "P_given_scenario": 0.8671235611151773,
+      "contribution": 0.3902
+    },
+    {
+      "scenario": "S3_conservative",
+      "weight": 0.25,
+      "P_given_scenario": 0.5806276403138202,
+      "contribution": 0.1452
+    },
+    {
+      "scenario": "S4_pessimistic",
+      "weight": 0.1,
+      "P_given_scenario": 0.25612848689771767,
+      "contribution": 0.0256
+    }
+  ],
+  "assumption_cells": [
+    {
+      "cell": "base: hochberg/NRI/α.05-2s/any-dose",
+      "P": 0.75284
+    },
+    {
+      "cell": "fixed_sequence(1200→800)",
+      "P": 0.758075
+    },
+    {
+      "cell": "both_doses_required",
+      "P": 0.566725
+    },
+    {
+      "cell": "single_1200_only",
+      "P": 0.758075
+    },
+    {
+      "cell": "missing=MI",
+      "P": 0.78005
+    },
+    {
+      "cell": "alpha=0.025(one-sided-equiv)",
+      "P": 0.710255
+    }
+  ],
+  "seed": 42,
+  "M": 200000
+}

@@ -1,0 +1,5 @@
+{
+  "_doc": "单价来源: https://api-docs.deepseek.com/quick_start/pricing （核对于 2026-10-08；运行时若与账单不符以账单为准并修订本文件）",
+  "deepseek-chat": {"in_per_mtok": 0.28, "in_cached_per_mtok": 0.028, "out_per_mtok": 0.42},
+  "deepseek-reasoner": {"in_per_mtok": 0.55, "in_cached_per_mtok": 0.14, "out_per_mtok": 2.19}
+}

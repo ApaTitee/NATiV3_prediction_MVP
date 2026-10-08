@@ -1,0 +1,477 @@
+   
+PRESS RELEASE 
+ 
+ 
+ 
+1 
+PRESS RELEASE 
+COMMUNIQUE DE PRESSE 
+ 
+Inventiva’s lanifibranor meets the primary and key 
+secondary endpoints in the Phase IIb NATIVE clinical trial in 
+non-alcoholic steatohepatitis (NASH) 
+ 
+► Lanifibranor met the primary endpoint with a statistically significant reduction of  
+the Steatosis Activity Fibrosis score ( SAF), which  combines assessments of 
+hepatocellular inflammation and ballooning , with no worsening of fibrosis  in the 
+Intention To Treat (ITT1) and Per Protocol populations (PP2) 
+ 
+► Lanifibranor also met key secondary endpoints including NASH resolution with no 
+worsening of fibrosis 3 and improvement of liver fibrosis with no  worsening of 
+NASH4 in both ITT and PP populations 
+ 
+► Lanifibranor is the first drug candidate to achieve statistically significant effects on 
+NASH resolution with no worsening of fibrosis and improvement of fibrosis with no 
+worsening of NASH , the FDA and EMA primary endpoints relevant for seeking 
+accelerated approval during future Phase III clinical development   
+ 
+► Lanifibranor continued to show a favorable tolerability profile  
+ 
+► Positive topline results  support Inventiva’s decision  to move forward with the 
+clinical development of lanifibranor and enter into pivotal Phase III development   
+ 
+Trial results to be presented during conference calls in French at 7:30 am CET and in 
+English at 2:00 pm CET on June 16, 2020 
+ 
+Daix (France), June 15, 2020 – Inventiva (Euronext: IVA), a clinical-stage biopharmaceutical company developing 
+oral small molecule therapies for the treatment of non-alcoholic steatohepatitis (NASH), mucopolysaccharidoses 
+(MPS) and other diseases with significant unmet medical need, today announced positive topline results from the 
+Phase IIb NATIVE (NAsh Trial to Validate IVA337 Efficacy) clinical trial evaluating lanifibranor for the treatment of 
+NASH.  
+ 
+ 
+1 ITT: includes all patients randomized in the trial. 
+2 PP: includes all patients with paired biopsies and without deviation impacting efficacy assessment. 
+3 NASH resolution and no worsening of fibrosis defined as CRN Lobular inflammation score equal to 0 or 1 and CRN Hepatocyte ballooning score equal to 0 
+and no worsening of the CRN-Fibrosis score. 
+4 Improvement of liver fibrosis with no worsening of NASH defined as improvement of CRN-Fibrosis score ≥ 1 stage and no increase of CRN-Steatosis score 
+and no increase of CRN-Inflammation score and no increase of CRN-Ballooning score. 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+2 
+ In this 24-week clinical trial, lanifibranor, an orally-available small molecule and the only pan -PPAR agonist5 
+currently in clinical development for the treatment of NASH, met the primary endpoint in the ITT population at 
+the dose of 1200mg/day with a statistically significant (p = 0.004) decrease of at least two points in the SAF activity 
+score6 (combining hepatocellular inflammation and ballooning) , compared to baseline, with no worsening of 
+fibrosis. 49% of patients in the lanifibranor 1200mg/day dose group achieved the primary endpoint compared to 
+27% in the placebo arm. 
+ 
+Lanifibranor also met multiple key secondary endpoints including: 
+ Resolution of NASH with no worsening of fibrosis in both dose groups (800mg/day and 1200mg/day) 
+ Improvement of fibrosis by at least one stage7 with no worsening of NASH at the 1200mg/day dose group 
+ NASH resolution and improvement of fibrosis in both dose groups (800mg/day and 1200mg/day) 
+ 
+Statistically significant results were also obtained in both dose groups (800mg/day and 1200mg/day) on:  
+ Decrease of insulin, fasting glucose and glycated haemoglobin (HB1AC) in patients with type 2 diabetes   
+ Decrease in triglycerides  
+ Increase in high density lipoprotein cholesterol (HDL)  
+ Decrease in liver enzymes (ALT, AST and GGT) 
+ 
+With these results, lanifibranor is the first drug candidate to achieve statistically significant results on the two 
+Food and Drug Administration (FDA) and European Medicine Agency (EMA) primary endpoints 8 relevant for 
+seeking accelerated approval during Phase III clinical development. 
+  
+ 
+5 A pan-PPAR agonist is a molecule designed to activate all three peroxisome proliferator-activated receptor (PPAR) isoforms (PPARα, PPARδ, PPARγ), which 
+are well-characterized nuclear receptor proteins that regulate gene expression. 
+6 Steatosis, Activity and Fibrosis score, which is a commonly accepted, semi-quantitative evluation of liver biopsy results. 
+7 Improvement in hepatic fibrosis ≥ 1 stage with no increase in NASH at week 24: Improvement in CRN-F ≥ 1 stage with no increase in CRN-S, CRN-I or 
+CRN-B 
+8 NASH resolution with no worsening of fibrosis and improvement of fibrosis with no worsening of NASH. 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+3 
+  
+ 
+ 
+Primary and key secondary endpoints 
+Intention to Treat Population 
+(ITT) 
+Per Protocol Population 
+(PP) 
+Placebo 
+(N = 81) 
+Lanifibranor Placebo 
+(N = 62) 
+Lanifibranor 
+800mg 
+(N = 83) 
+1200mg 
+(N = 83) 
+800mg 
+(N = 63) 
+1200mg 
+(N = 69) 
+Primary 
+endpoint 
+Decrease of ≥2 points 
+of SAF activity score(1) 
+27% 
+ 
+41% 
+P=0.061 
+49% 
+P=0.004* 
+34% 
+ 
+51% 
+P=0.058 
+55% 
+P=0.015* 
+Secondary 
+endpoints 
+Resolution of NASH 
+and no worsening of 
+fibrosis(2) 
+19% 
+ 
+33% 
+P=0.043* 
+45% 
+P<0.001* 
+23% 
+ 
+40% 
+P=0.039* 
+49% 
+P=0.002* 
+Resolution of NASH 
+and no worsening of 
+fibrosis(2) in F2/F3 
+patients(3)  
+9% 
+ 
+34% 
+P=0.011* 
+44% 
+P<0.001* 
+11% 
+ 
+40% 
+P=0.016* 
+51% 
+P<0.001* 
+Improvement of 
+fibrosis by at least one 
+stage and no 
+worsening of NASH (4) 
+24% 
+ 
+28% 
+P=0.53 
+42% 
+P=0.011* 
+29% 
+ 
+32% 
+P=0.75 
+46% 
+P=0.04* 
+Resolution of NASH 
+and improvement of 
+fibrosis (5) 
+7% 
+ 
+21% 
+P=0.017* 
+31% 
+P<0.001* 
+10% 
+ 
+24% 
+P=0.036* 
+33% 
+P=0.001* 
+Decrease of ≥ 2 points 
+of NAS score (6) (NAFLD 
+activity score) and no 
+worsening of fibrosis 
+32% 
+ 
+52% 
+P=0.01* 
+64% 
+P<0.001* 
+40% 
+ 
+62% 
+P=0.02* 
+71% 
+P<0.001* 
+ 
+* Statistically significant in accordance to the statistical analysis plan (SAP) 
+1. Response is defined as a decrease from baseline to week 24 of at least 2 points of the SAF Activity score (SAF-A) with no worsening of the CRN Fibrosis 
+score (CRN-F). No worsening means that score remains stable or decreases. 
+2. Resolution of NASH with no worsening of fibrosis at week 24: CRN-I = 0 or 1 (CRN-Inflammation), CRN-B = 0 (CRN-Ballooning) and no worsening of CRN-F 
+from baseline. 
+3. Includes 188 patients in the ITT population and 149 in the Per Protocol population. 
+4. Improvement of liver fibrosis ≥ 1 stage and no worsening of NASH at week 24: Improvement of CRN-F ≥ 1 stage and no increase of CRN-S, CRN-I or CRN-B 
+5. Resolution of NASH and improvement of fibrosis at week 24: CRN-I = 0 or 1, CRN-B = 0 and an improvement of CRN-F ≥ 1 stage. 
+6. NAS score is a commonly accepted, semi-quantitative evaluation of biopsy results that assesses the severity of steatosis, inflammation and ballooning in 
+the liver. 
+ 
+ 
+Prof. Sven Francque, M.D., Ph.D. from Antwerp University Hospital and co-principal investigator of the Phase 
+IIb NATIVE clinical trial, said: “The topline results delivered by lanifibranor, the only pan-PPAR agonist currently in 
+clinical development in NASH, are extremely encouraging, especially given the short treatment period of only six 
+months. The results observed within such a short timeframe suggest that extended treatment could even lead to 
+further improvements in liver health . Supported by these positive trial results in NASH resolution and fibrosis  
+reduction, lanifibranor is positioned as a promising drug candidate in NASH and we look forward to its pivotal 
+Phase III development.”  
+ 
+Prof. Manal Abdelmalek, M.D., M.P.H. from Duke University  and co-principal investigator of the Phase IIb 
+NATIVE clinical trial, added: “These are very exciting results which compare very favourably with those of other 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+4 
+ oral molecules currently in development for NASH. Lanifibranor, to my knowledge, is the first drug candidate that 
+has been able to achieve statistically significant results on both FDA and EMA regulatory endpoints relevant for 
+accelerated approval – NASH resolution and improvement of fibrosis. I am extremely encouraged by the results 
+and the rapid onset of action observed with lanifibranor, with statistically significant results achieved on both 
+NASH resolution and improvement of fibrosis after only six month s of treatment. With the many challenges 
+surrounding drug development for the treatment of NASH, it is great to have lanifibranor achieve these positive 
+results.”   
+ 
+Pierre Broqua, CSO and cofounder of Inventiva, stated: “First of all, I would like to extend my deepest thank you 
+to patients, caregivers, investigators, advisors and our team for their continued confidence, relentless dedication 
+and strong commitment throughout this trial. We are all thrilled by these topline results, especially since, there is 
+no approved treatment in NASH to date despite very significant medical needs. During this trial, lanifibranor met 
+both the trial’s primary and key secondary endpoints , which we credit to its differentiated mechanism of action. 
+Given this was a global trial where lanifibranor met both FDA and EMA regulatory endpoints in only six months of 
+treatment, we are optimistic about the potential of our drug candidate in a Phase III pivotal clinical trial.” 
+ 
+Safety and tolerability 
+ 
+Lanifibranor showed an overall favorable tolerability profile,  consistent with observations from previous clinical 
+trials. There were three discontinuations due to adverse events (AE) in each group. The AEs were generally mild to 
+moderate in severity. There were 13 serious adverse events (SAE), three in the placebo arm, three in the 800mg/day 
+dose group and seven in the 1200mg/day dose group. After excluding biopsy-related SAE, there were three SAE in 
+the placebo group, two in the 800mg/day dose group and four in the 1200mg/day dose group.  
+ 
+Consistent with known insulin sensitizing pharmacology, a modest mean weight increase from baseline of 2.4 kg 
+(2.6%) at the 800mg/day dose and 2.7 kg (3.1%) at the 1200mg/day dose was observed. A total of 14 patients 
+reported peripheral edema, two in the placebo group, five in the 800mg/day dose group and seven in the 
+1200mg/day dose group . All of them except one were of mild intensity. There were only two patients with 
+treatment-related peripheral edema in each lanifibranor treatment arms. There was no treatment discontinuation 
+due to edema. 
+ 
+Patients reporting treatment-emergent Serious AE (SAE) 
+N (%) 
+Placebo 
+(N = 81) 
+Lanifibranor 
+800mg 
+(N = 83) 
+Lanifibranor 
+1200mg 
+(N = 83) 
+Total 3 (3.7%) 3 (3.6%) 7 (8.4%) 
+Treatment-Emergent Serious AE linked to biopsy procedure: 
+- Post-procedural haematoma/haemorrhage - 1 (1.2%) 1 (1.2%) 
+- Post-procedural pain - - 1 (1.2%) 
+- Pneumobilia (post-procedural) - - 1 (1.2%) 
+Other Treatment-Emergent Serious AE: 
+- Wrist fracture 1 (1.2%) - - 
+- Angina unstable - - 1 (1.2%) 
+- Cardiac failure 1 (1.2%) - - 
+- Gastroenteritis - - 1 (1.2%) 
+- Pyelonephritis - - 1 (1.2%) 
+- Pancreatitis - 1 (1.2%) - 
+- Undifferentiated connective tissue disease - 1 (1.2%) - 
+- Urticaria 1 (1.2%) - - 
+- Foot operation - - 1 (1.2%) 
+ 
+  
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+5 
+ Next steps 
+ 
+Following today’s publication of positive topline results, Inventiva has decided to move forward with the clinical 
+development of lanifibranor for the treatment of NASH and enter into pivotal Phase III development. To this end, 
+the Company plans to finalize the relevant trial design  and meet with regulatory authorities  (FDA and EMA) . 
+Inventiva plans to present the Phase IIb NATIVE clinical trial results at the upcoming Liver Meeting® of the AASLD 
+(American Association for the Study of Liver Diseases), taking place from November 13 to November 16, 2020.  
+ 
+Conference calls and webcasts 
+ 
+A conference call in French will be held tomorrow, June 16, 2020 at 7:30 am (CET). To join the conference call, 
+please use the code 4982708 after dialing one of the following numbers: 
+ 
+France: +33 (0) 1 70 70 07 81 
+Belgium: +32 (0) 2 793 3847 
+Germany: +49 (0) 69 2222 2625 
+Netherlands: +31 (0) 20 795 6614 
+Switzerland: +41 (0) 44 580 7145 
+United Kingdom: +44 (0) 2071 928 338 
+United States: +1 646-741-3167 
+ 
+The presentation accompanying this conference call will be available on Inventiva’s website from 7:30 am (CET) 
+onwards in the “Investors” – “Investor presentations” section and can be followed live at:  https://edge.media-
+server.com/mmc/p/2p5otx68.  
+ 
+ 
+A conference call in English will be held tomorrow, June 16, 2020 at 2:00 pm (CET). To join the conference call, 
+please use the code 4785925 after dialing one of the following numbers: 
+ 
+France: +33 (0) 1 70 70 07 81 
+Belgium: +32 (0) 2 793 3847 
+Germany: +49 (0) 69 2222 2625 
+Netherlands: +31 (0) 20 795 6614 
+Switzerland: +41 (0) 44 580 7145 
+United Kingdom: +44 (0) 2071 928 338 
+United States: +1 646-741-3167 
+ 
+The presentation accompanying this conference call will be available on Inventiva’s website from 7:30 am (CET) 
+onwards in the “Investors” – “Investor presentations” section and can be followed live at:  https://edge.media-
+server.com/mmc/p/dicwzktp.  
+ 
+A replay of both conference calls and the presentation will be available on Inventiva’s website after the events 
+at: http://inventivapharma.com/investors/investor-presentations/. 
+ 
+ 
+ 
+••• 
+ 
+About lanifibranor  
+ 
+Lanifibranor, Inventiva’s lead product candidate, is an orally -available small molecule that acts to induce anti -
+fibrotic, anti -inflammatory and beneficial vascular and metabolic changes in the body by activating all three 
+peroxisome prolife rator-activated receptor (PPAR) isoforms, which are well -characterized nuclear receptor 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+6 
+ proteins that regulate gene expression. Lanifibranor is a PPAR agonist that is designed to target all three PPAR 
+isoforms in a moderately potent manner, with a well -balanced activation of PPAR α and PPARδ, and a partial 
+activation of PPARγ. While there are other PPAR agonists that target only one or two PPAR isoforms for activation, 
+lanifibranor is the only pan-PPAR agonist in clinical development. Inventiva believes that lanifibranor’s moderate 
+and balanced pan-PPAR binding profile contributes to the favorable tolerability profile that has been observed in 
+clinical trials and pre-clinical studies to date.  
+ 
+About the NATIVE Phase IIb trial 
+ 
+The NATIVE (NAsh Trial to Validate IVA337 Efficacy) clinical trial is a 24-week randomized, double-blind, placebo-
+controlled Phase IIb clinical trial evaluating lanifibranor for the treatment of patients with NASH. The main 
+purpose of the trial is to assess the efficacy of lanifibranor in improving liver inflammation and ballooning, the two 
+histological markers included in the definition of the regulatory endpoint of NASH resolution. To be considered 
+for inclusion, patients were required to have: a diagnosis of NASH confirmed by liver biopsy; a cumulative score 
+of inflammation and ballooning (as measured using the SAF scoring system) of three or four out of four, indicating 
+the presence of moderate to severe inflammation and ballooning; a steatosis score greater than or equal to one, 
+indicating the presence of moderate to severe steatosis; and a fibrosis score less than four, indicating the absence 
+of cirrhosis. The primary endpoint of the trial is a reduction in the combined inflammation and ballooning score 
+of two points c ompared to baseline, with no  worsening fibrosis , as measured by the SAF score . Secondary 
+endpoints include NASH resolution, improvements in each of the steatosis, inflammation, ballooning and fibrosis 
+scores from baseline as measured using the SAF score, i mprovements in various other fibrosis measures, 
+improvements in several metabolic markers, improvements in steatosis, inflammation and ballooning as 
+measured using the NAS score (NAFLD activity score), and safety. 
+ 
+The trial randomized 247 patients with NASH in 71 sites in Australia, Canada, Europe, Mauritius and the United 
+States.  
+ 
+About Inventiva  
+ 
+Inventiva is a clinical -stage biopharmaceutical company focused on the development of oral small molecule 
+therapies for the treatment of NASH, MPS and other diseases with significant unmet medical need.  
+ 
+Leveraging its expertise and experience in the domain of compounds targeting nuclear receptors, transcription 
+factors and epigenetic modulation, Inventiva is currently advancing two clinical candidates, as well as a deep 
+pipeline of earlier stage programs. 
+ 
+Lanifibranor, its lead product candidate, is being developed for the treatment of patients with NASH, a common 
+and progressive chronic liver disease for which there are currently no approved therapies.  
+ 
+Inventiva is also developing odiparcil, a second clinical stage asset, for the treatment of patients with MPS, a group 
+of rare genetic disorders. A Phase Ib/II clinical trial in children with MPS VI is currently under preparation following 
+the release of positive results of the Phase IIa clinical trial in adult MPS VI patients at the end of 2019. 
+ 
+In parallel, Inventiva is in the process of selecting an oncology development candidate for its Hippo signalling 
+pathway program. Furthermore, the Company has established a strategic collaboration with AbbVie in the area 
+of autoimmune diseases. AbbVie has started the clinical development of ABBV -157, a drug candidate for the 
+treatment of moderate to severe psoriasis resulting from its collaboration with Inventiva. This collaboration 
+enables Inventiva to receive mi lestone payments upon the achievement of pre -clinical, clinical, regulatory and 
+commercial milestones, in addition to royalties on any approved products resulting from the collaboration. 
+ 
+The Company has a scientific team of approximately 70 people with de ep expertise in the fields of biology, 
+medicinal and computational chemistry, pharmacokinetics and pharmacology, as well as in clinical development. 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+7 
+ It also owns an extensive library of approximately 240,000 pharmacologically relevant molecules, approximately 
+60% of which are proprietary, as well as a wholly-owned research and development facility.  
+ 
+Inventiva is a public company listed on compartment C of the regulated market of Euronext Paris (Euronext: IVA 
+– ISIN: FR0013233012). www.inventivapharma.com   
+ 
+Contacts  
+ 
+Inventiva 
+Frédéric Cren 
+Chairman & CEO 
+info@inventivapharma.com 
++33 3 80 44 75 00  
+Brunswick Group 
+Yannick Tetzlaff /  
+Tristan Roquet Montegon /  
+Aude Lepreux 
+Media relations 
+inventiva@brunswickgroup.com 
++33 1 53 96 83 83 
+Westwicke, an ICR Company 
+Patricia L. Bank 
+Investor relations 
+patti.bank@westwicke.com 
++1 415 513-1284 
+ 
+ 
+ 
+Important Notice 
+ 
+This press release contains forward-looking statements, forecasts and estimates with respect to Inventiva’s clinical 
+trials, clinical trial data releases, clinical development plans and anticipated future activities of Inventiva. Certain 
+of these statements, forecasts and estimates can be recognized by the use of words such as, without limitation, 
+“believes”, “anticipates”, “expects”, “intends”, “plans”, “seeks”, “estimates”, “may”, “will” and “continue” and 
+similar expressions. Such statements are not historical facts but rather are statements of future expectations and 
+other forward-looking statements that are based on management's beliefs. These statements reflect such views 
+and assumptions prevailing as of the date of the statements and involve known and  unknown risks and 
+uncertainties that could cause future results, performance or future events to differ materially from those 
+expressed or implied in such statements. Actual events are difficult to predict and may depend upon factors that 
+are beyond Inventiva's control. There can be no guarantees with respect to pipeline product candidates that the 
+clinical trial results will be available on their anticipated timeline, that future clinical trials will be initiated as 
+anticipated, or that candidates will receive the necessary regulatory approvals. Therefore, actual results may turn 
+out to be materially different from the anticipated future results, performance or achievements expressed or 
+implied by such statements, forecasts and estimates.  Given these uncertainties, no representations are made as 
+to the accuracy or fairness of such forward -looking statements, forecasts and estimates. Furthermore, forward -
+looking statements, forecasts and estimates only speak as of the date of this press release. Readers are cautioned 
+not to place undue reliance on any of these forward-looking statements. 
+ 
+Please refer to the Universal Reference Document filed with the Autorité des Marchés Financiers on February 7, 
+2020 under n° D.20-0038 for additional information in relation to such factors, risks and uncertainties.  
+ 
+Except as required by law, Inventiva has no intention and is under no obligation to update or review the forward-
+looking statements referred to above. Consequently, Inventiv a accepts no liability for any consequences arising 
+from the use of any of the above statements. 
+ 

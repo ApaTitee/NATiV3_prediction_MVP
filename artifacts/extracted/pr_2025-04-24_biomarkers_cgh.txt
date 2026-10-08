@@ -1,0 +1,235 @@
+   
+PRESS RELEASE 
+ 
+ 
+ 
+1 
+ 
+ Inventiva announces the publication in Clinical 
+Gastroenterology and Hepatology 
+of the results of its analysis of new and specific non-invasive 
+signature predictive of histological response in patients with 
+MASH treated with lanifibranor  
+ 
+ 
+► Biomarker signatures were developed to predict histological treatment response to lanifibranor 
+treatment in patients with MASH and fibrosis 
+ 
+► The biomarker signatures developed for fibrosis improvement, MASH resolution and composite 
+histological endpoints, suggested better predictive accuracy than other diagnostic scores 
+available including FIB4, FIBC3, ABC3D, NFS, ELF and MACK-3 
+ 
+► The biomarker signatures suggested strong predictive accuracy, with AUROC values above 0.80 
+that may indicate high reliability in distinguishing responders from non-responders 
+ 
+► The analysis confirmed that histological response to lanifibranor could be assessed with non-
+invasive signatures based on blood markers 
+ 
+ 
+ 
+Daix (France), New York City (New York, United States), April 24, 2025 – Inventiva (Euronext Paris and Nasdaq: 
+IVA) (the “Company”), a clinical -stage biopharmaceutical company focused on the development of oral small 
+molecule therapies for the treatment of metabolic dysfunction -associated steatohepatitis (“MASH”) and other 
+diseases with significant unmet medical needs, today announced publication in the peer-reviewed medical journal 
+Clinical Gastroenterology and Hepatology, of its analysis on new non-invasive biomarker signatures predictive of 
+histology response following treatment with lanifibranor in patients with MASH and fibrosis.  
+ 
+Pr. Jérôme Boursier, Head of Department Hepato -gastroenterology and digestive oncology  at the University 
+Hospital Centre of Angers, stated:  "Our collaboration with Inventiva has been instrumental in addressing the 
+critical need for reliable non -invasive biomarkers in MASH. With  the effects of  lanifibranor on histological 
+endpoints observed in the NATIVE Phase 2b trial and our encouraging biomarker dataset, we are optimistic about 
+developing robust composite biomarker scores which could predict t reatment res ponse and therefore the  
+identification of patients most likely to respond to treatment with lanifibranor. In our analyses, t he biomarker 
+signatures were observed to outperform the current scores available in predicting the response to lanifibranor. We 
+look forward to  continuing our efforts to  further refin e these signatures and ultimately transforming patient 
+management in chronic liver disease."  
+ 
+Pierre Broqua, Chief Scientific Officer and cofounder of Inventiva, commented: “Our collaboration with Professor 
+Boursier and his team has enabled us to develop robust biomarker signatures that significantly enhance our ability 
+to predict treatment response for patients treated with lanifibranor using a combination of serum -based 
+biomarkers obtained in clinical practice. These signatures were developed and validated using NATIVE and we aim 
+to further our analysis with the data from our Phase 3 clinical trial. The analysis further strengthens our confidence 
+in the potential for lanifibranor to become a liver-targeted backbone treatment for MASH.” 
+  
+The analysis assessed 71 biomarkers of interest (65 laboratory parameters and 6 diagnostic scores) measured in 
+the Phase 2b NATIVE at baseline and after 24 weeks of treatment with lanifibranor 800mg and 1200mg/daily, in 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+2 
+ order to select biomarkers predictive of histological responses: MASH resolution with fibrosis improvement (E1), 
+MASH resolution without fibrosis worsening (E2), and fibrosis improvement alone without worsening of MASH 
+(E3). 
+ 
+The biomarkers included E1-score (baseline adiponectin and ferritin; delta of matrix metalloproteinase 9 and 
+transferrin), E2-score (baseline cytokeratin 18 Fragment M65; delta of hyaluronic acid, fructosamine and ALT) and 
+E3-score (baseline cytokeratin 18 Fragment M65 and gamma -GT; delta of AST, insulin, and urea) representing 
+metabolic, apoptotic and fibrosis aspects of the disease. These signatures were observed to provide good accuracy 
+for the non-invasive identification of histological response under lanifibranor with AUROC at 0.81±0.08, 0.80±0.08 
+and 0.81±0.08 respectively.  
+ 
+Developing such biomarker signatures could provide a non -invasive method to help physicians identify patients 
+most likely to benefit from lanifibranor treatment. This approach supports precision medicine strategies in liver 
+disease management. 
+ 
+ 
+Publication details 
+ 
+Publication title:  
+ 
+“Biomarkers of histological response in patients with metabolic dysfunction -
+associated steatohepatitis treated with lanifibranor” 
+Authors: 
+ 
+ 
+Jérôme Boursier, Hugo Hervé, Marine Roux, Manal F. Abdelmalek, Sven M. 
+Francque, Pierre Broqua, Jean Louis Junien, Jean -Louis Abitbol, Philippe Huot -
+Marchand, Lucile Dzen, Michael P Cooreman, Sanjaykumar Patel. 
+Online version:  doi: 10.1016/j.cgh.2024.12.039. Epub ahead of print. PMID: 40107637. 
+ 
+ 
+About lanifibranor 
+ 
+Lanifibranor, Inventiva’s lead product candidate, is an orally  available small molecule that acts to induce 
+antifibrotic, anti-inflammatory and beneficial vascular and metabolic c hanges in the body by activating all three 
+peroxisome proliferator -activated receptor (“PPAR”) isoforms, which are well -characterized nuclear receptor 
+proteins that regulate gene expression. Lanifibranor is a PPAR agonist that is designed to target all thr ee PPAR 
+isoforms in a moderately potent manner, with a well -balanced activation of PPARα and PPARδ, and a partial 
+activation of PPARγ. While there are other PPAR agonists that target only one or two PPAR isoforms for activation, 
+lanifibranor is the only pa n-PPAR agonist in clinical development for the treatment of MASH. Inventiva believes 
+that lanifibranor’s moderate and balanced pan -PPAR binding profile contributes to the favorable tolerability 
+profile that has been observed in clinical trials and pre-clinical studies to date. The FDA has granted Breakthrough 
+Therapy and Fast Track designation to lanifibranor for the treatment of MASH.   
+ 
+ 
+About Inventiva  
+ 
+Inventiva is a clinical-stage biopharmaceutical company focused on the research and development of oral small 
+molecule therapies for the treatment of patients with MASH and other diseases with significant unmet medical 
+need. The Company is currently evaluating lanifibranor, a novel pan-PPAR agonist, in the NATiV3 pivotal Phase 3  
+clinical trial for the treatment of adult patients with MASH, a common and progressive chronic liver disease.  
+The Company has a scientific team of approximately 90 people with deep expertise in the fields of biology, 
+medicinal and computational chemistry, pharmacokinetics and pharmacology, and clinical development. It owns 
+an extensive library of approximately 240,000 pharmacologically relevant molecules, approximately 60% of which 
+are proprietary, as well as a wholly owned research and development facility.    
+ 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+3 
+ Inventiva is a public company listed on compartment B of the regulated market of Euronext Paris (ticker: IVA, ISIN: 
+FR0013233012) and on the Nasdaq Global Market in the United States (ticker: IVA).  www.inventivapharma.com  
+ 
+Contacts  
+ 
+Inventiva 
+Pascaline Clerc 
+EVP, Strategy and Corporate Affairs 
+media@inventivapharma.com 
++1 202 499 8937 
+Brunswick Group 
+Tristan Roquet Montegon / 
+Aude Lepreux / 
+Julia Cailleteau 
+Media relations  
+inventiva@brunswickgroup.com 
++33 1 53 96 83 83 
+ICR Healthcare 
+Patricia L. Bank 
+Investor relations 
+   patti.bank@icrhealthcare.com 
+   +1 415 513 1284 
+ 
+ 
+Important notice 
+ 
+This press release contains certain “forward-looking statements” within the meaning of the safe harbor provisions 
+of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical facts, 
+included in this press rel ease are forward-looking statements. These statements include, but are not limited to, 
+Inventiva’s expectations with respect to forecasts and estimates with respect to Inventiva’s clinical trials  and 
+analyses, including design, protocol, duration, and the results and timing thereof and regulatory matters with 
+respect thereto, study data releases and publications, the information, insights and impacts that may be gathered 
+from preclinical studies, clinical trials and analyses, the potential therapeutic benefits of lanifibranor, the potential 
+of biomarker signatures to accurately predict treatment response to lanifibranor and related potential benefits to 
+patient treatment, the expected benefit of having received Breakthrough Therapy Designation and Fast Track  
+Designation, potential regulatory submissions, approvals and commercialization, Inventiva’s pipeline and 
+preclinical and clinical development plans, the clinical development of and regulatory plans and pathway for 
+lanifibranor, and future activities, expectations, plan s, growth and prospects of Inventiva. Certain of these 
+statements, forecasts and estimates can be recognized by the use of words such as, without limitation, “believes”, 
+“anticipates”, “expects”, “intends”, “plans”, “seeks”, “estimates”, “may ”, “will”, “would”, “could”, “might”, 
+“should”, “designed”, “hopefully”, “target”, “potential”, “opportunity”, “possible”, “aim”, and “continue” and 
+similar expressions. Such statements are not historical facts but rather are statements of future expectations and 
+other forward-looking statements that are based on management's beliefs. These statements reflect such views 
+and assumptions prevailing as of the date of the statements and involve known and unknown risks and 
+uncertainties that could cause future r esults, performance, or future events to differ materially from those 
+expressed or implied in such statements. Actual events are difficult to predict and may depend upon factors that 
+are beyond Inventiva's control. There can be no guarantees with respect t o product candidates that the clinical 
+trial results will be available on their anticipated timeline, that future clinical trials will be initiated as anticipated, 
+that product candidates will receive the necessary regulatory approvals, or that any of the anticipated milestones 
+by Inventiva or its partners will be reached on their expected timeline, or at all. Future results may turn out to be 
+materially different from the anticipated future results, performance or achievements expressed or implied by such 
+statements, forecasts and estimates due to a number of factors, including that interim data or data from any 
+interim analysis of ongoing clinical trials may not be predictive of future trial results, the recommendation of the 
+DMC may not be indicative of a potential marketing approval, Inventiva cannot provide assurance on the impacts 
+of the Suspected Unexpected Serious Adverse Reaction on the results or timing of the NATiV3 trial or regulatory 
+matters with respect thereto, that Inventiva is a clinical -stage company with no approved products and no 
+historical product revenues, Inventiva has incurred significant losses since inception, Inventiva has a limited 
+operating history and has never generated any revenue from product sales, Inventiva will require additional capital 
+to finance its operations, in the absence of which, Inventiva may be required to significantly curtail, delay or 
+discontinue one or more of its research or development programs or be unable to expand its operations or 
+otherwise capitalize on its business opportunities and may be unable to continue as a going concern, Inventiva’s 
+ability to obtain financing, to enter into potential transactions, Inventiva’s ability to satisfy in part or full the closing 
+
+ 
+PRESS RELEASE 
+ 
+ 
+ 
+4 
+ conditions for subsequent tranches of the structured financing announced on October 14, 2024 (the “Structured 
+Financing”), on the expected timing or at all, and whether and to what extent the prefunded warrants issued in 
+connection with the Structured Financing may be exercised and by which holders, Inventiva's future success is 
+dependent on the successful clinical development, regulatory approval and subsequent commercialization of its 
+product candidate, lanifibranor, preclinical studies or earlier clinica l trials are not necessarily predictive of future 
+results and the results of Inventiva's and its partners’ clinical trials may not support Inventiva's and its partners’ 
+product candidate claims, Inventiva's expectations with respect to its clinical trials may prove to be wrong and 
+regulatory authorities may require additional holds and/or additional amendments to Inventiva’s clinical trials, 
+Inventiva’s expectations with respect to the clinical development plan for lanifibranor for the treatment of MASH 
+may not be realized and may not support the approval of a New Drug Application, Inventiva and its partners may 
+encounter substantial delays beyond expectations in their clinical trials or fail to demonstrate safety and efficacy 
+to the satisfaction of applicable regulatory authorities, the ability of Inventiva and its partners to recruit and retain 
+patients in clinical studies, enrollment and retention of patients in clinical trials is an expensive and time-consuming 
+process and could be made more difficult or rendered impossible by multiple factors outside Inventiva's and its 
+partners’ control, Inventiva's product candidates may cause adverse drug reactions or have other properties that 
+could delay or prevent their regulatory approval, or limit their commercial  potential, Inventiva faces substantial 
+competition and Inventiva’s business, and pre-clinical studies and clinical development programs and timelines, its 
+financial condition and results of operations could be materially and adversely affected by geopolitical events, such 
+as the conflict between Russia and Ukraine and related sanctions, the conflict in the Middle East and the related 
+risk of a larger conflict, health epidemics, and macroeconomic conditions, including developments in international 
+trade policies, global inflation, fluctuations in interest rates, uncertain financial markets and disruptions in banking 
+systems. Given these risks and uncertainties, no representations are made as to the accuracy or fairness of such 
+forward-looking statements, for ecasts, and estimates. Furthermore, forward -looking statements, forecasts and 
+estimates only speak as of the date of this press release. Readers are cautioned not to place undue reliance on any 
+of these forward-looking statements.   
+ 
+Please refer to the Universal Registration Document for the year ended December 31, 2024, filed with the Autorité 
+des Marchés Financiers on April 15, 2025, and the Annual Report on Form 20 -F for the year ended December 31, 
+2024, filed with the Securities a nd Exchange Commission (the “SEC”) on April 15, 2025  for other risks and 
+uncertainties affecting Inventiva, including those described under the caption “Risk Factors”, and in future filings 
+with the SEC. Other risks and uncertainties of which Inventiva is not currently aware may also affect its forward -
+looking statements and may cause actual results and the timing of events to differ materially from those 
+anticipated. All information in this press release is as of the date of the release. Except as required by law, Inventiva 
+has no intention and is under no obligation to update or review the forward-looking statements referred to above. 
+Consequently, Inventiva accepts no liability for any consequences arising from the use of any of the above 
+statements. 
+ 
+Please note that this press release does not pertain to conditions precedent relating to the €348 million Structured 
+Financing announced on October 14, 2024. Important information relating to the second tranche of the Structured 
+Financing will be the subject of a press release from the Company at the applicable time. 
+ 

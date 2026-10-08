@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "cutoff_utc": "2026-10-08T07:00:00Z",
+  "created_local": "2026-10-08T07:09:34Z",
+  "target": {
+    "trial": "NCT04849728",
+    "drug": "lanifibranor",
+    "question": "NATiV3 Part A Week 72 复合主终点（MASH 缓解且纤维化改善≥1期）能否按预设统计标准达到",
+    "event_expected": "Q4 2026 (company guidance)",
+    "resolution_source": "company topline PR or CTG resultsSection, whichever first; horizon 2027-03-31"
+  },
+  "success_definition": {
+    "endpoint_verbatim": "Resolution of NASH and improvement of fibrosis at Week 72, defined by NASH CRN scores for ballooning of 0 and inflammation of 0 to 1, and fibrosis score ≥1 stage decrease compared to Baseline",
+    "alpha_two_sided": 0.05,
+    "multiplicity": "Hochberg (2 doses vs shared placebo)",
+    "interim_alpha_spend": "none",
+    "test": "CMH stratified (fibrosis stage, diabetic status)",
+    "estimand": "ITT",
+    "missing_biopsy": "NRI (non-responder imputation)",
+    "decision_dose": "any dose significant",
+    "_slot_status": {
+      "alpha_two_sided": "assumed",
+      "multiplicity": "assumed",
+      "interim_alpha_spend": "assumed",
+      "test": "assumed",
+      "estimand": "assumed",
+      "missing_biopsy": "assumed",
+      "decision_dose": "assumed"
+    }
+  },
+  "assumptions_frozen_in": "analysis_plan.md (self-SAP) — decision rule, base case, hyperparams, MC settings",
+  "evidence": [
+    {
+      "claim_id": "C01",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04849728",
+      "retrieved_at_utc": "2026-10-08T06:22:34Z",
+      "snapshot": "data/snapshots/ctgov/20261008T062234Z_NCT04849728_full.json"
+    },
+    {
+      "claim_id": "C02",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04849728",
+      "retrieved_at_utc": "2026-10-08T06:22:34Z",
+      "snapshot": "data/snapshots/ctgov/20261008T062234Z_NCT04849728_full.json"
+    },
+    {
+      "claim_id": "C03",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04849728",
+      "retrieved_at_utc": "2026-10-08T06:22:34Z",
+      "snapshot": "data/snapshots/ctgov/20261008T062234Z_NCT04849728_full.json"
+    },
+    {
+      "claim_id": "C04",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04849728",
+      "retrieved_at_utc": "2026-10-08T06:22:34Z",
+      "snapshot": "data/snapshots/ctgov/20261008T062234Z_NCT04849728_full.json"
+    },
+    {
+      "claim_id": "C05",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/inventiva-documents/Inventiva-PR-End-of-Patient-Randomization-EN-04-01-2025.pdf",
+      "retrieved_at_utc": "2026-10-08T06:30:43Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063043Z_pr_2025-04-01_end_randomization.pdf"
+    },
+    {
+      "claim_id": "C06",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva-PR-Inventiva-LVLP-EN-09-02-2026.pdf",
+      "retrieved_at_utc": "2026-10-08T06:30:34Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063034Z_pr_2026-09-02_lplv.pdf"
+    },
+    {
+      "claim_id": "C07",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva_Jefferies-Deck-_06-03-2026-1.pdf",
+      "retrieved_at_utc": "2026-10-08T06:39:09Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063909Z_deck_2026-06-03_jefferies.pdf"
+    },
+    {
+      "claim_id": "C08",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva_Jefferies-Deck-_06-03-2026-1.pdf",
+      "retrieved_at_utc": "2026-10-08T06:39:09Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063909Z_deck_2026-06-03_jefferies.pdf"
+    },
+    {
+      "claim_id": "C09",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva_Jefferies-Deck-_06-03-2026-1.pdf",
+      "retrieved_at_utc": "2026-10-08T06:39:09Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063909Z_deck_2026-06-03_jefferies.pdf"
+    },
+    {
+      "claim_id": "C10",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34670042/",
+      "retrieved_at_utc": "2026-10-08T06:35:37Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063537Z_native_nejm2021_abstract.json"
+    },
+    {
+      "claim_id": "C11",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34670042/",
+      "retrieved_at_utc": "2026-10-08T06:35:37Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063537Z_native_nejm2021_abstract.json"
+    },
+    {
+      "claim_id": "C12",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34670042/",
+      "retrieved_at_utc": "2026-10-08T06:35:37Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063537Z_native_nejm2021_abstract.json"
+    },
+    {
+      "claim_id": "C13",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38324483/",
+      "retrieved_at_utc": "2026-10-08T06:37:18Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063718Z_maestro_nejm_abstract.json"
+    },
+    {
+      "claim_id": "C14",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40305708/",
+      "retrieved_at_utc": "2026-10-08T06:35:41Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063541Z_essence_main.json"
+    },
+    {
+      "claim_id": "C15",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41076041/",
+      "retrieved_at_utc": "2026-10-08T06:35:43Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063543Z_placebo_rates_meta_2026.json"
+    },
+    {
+      "claim_id": "C16",
+      "tier": "C",
+      "status": "unverified",
+      "url": "https://www.ebi.ac.uk/europepmc.org/",
+      "retrieved_at_utc": "2026-10-08T06:35:51Z",
+      "snapshot": "data/snapshots/pubmed/20261008T063551Z_resolve_it_results.json"
+    },
+    {
+      "claim_id": "C17",
+      "tier": "D",
+      "status": "unverified",
+      "url": "-",
+      "retrieved_at_utc": "2026-10-08T07:00:00Z",
+      "snapshot": "-"
+    },
+    {
+      "claim_id": "C18",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva_Jefferies-Deck-_06-03-2026-1.pdf",
+      "retrieved_at_utc": "2026-10-08T06:39:09Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063909Z_deck_2026-06-03_jefferies.pdf"
+    },
+    {
+      "claim_id": "C19",
+      "tier": "A",
+      "status": "verified",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT04849728",
+      "retrieved_at_utc": "2026-10-08T06:22:34Z",
+      "snapshot": "data/snapshots/ctgov/20261008T062234Z_NCT04849728_full.json"
+    },
+    {
+      "claim_id": "C20",
+      "tier": "B",
+      "status": "verified",
+      "url": "https://inventivapharma.com/wp-content/uploads/Inventiva_Jefferies-Deck-_06-03-2026-1.pdf",
+      "retrieved_at_utc": "2026-10-08T06:39:09Z",
+      "snapshot": "data/snapshots/company_pr/20261008T063909Z_deck_2026-06-03_jefferies.pdf"
+    }
+  ],
+  "probability": {
+    "point": 0.75284,
+    "mcse": 0.0009645515393176252,
+    "interval_80_robustness": [
+      0.569763,
+      0.8921640000000001
+    ],
+    "method": "mixture-prior assurance via whole-trial Monte Carlo (virtual trial simulator; Hochberg multiplicity; NRI; shared-control correlation handled by simulation)",
+    "rng_seed": 42,
+    "M": 200000,
+    "inputs_hash": "sha256:f62771ea17e6c68cc2e04f421e28d4c9bb477bdb272b41fdf4f1cb5c361f6b65|sha256:1e240d210d7ad6f699548fcb8d15be03052719f43b53e9126d6f468b70ad1211",
+    "analysis_plan_sha256": "sha256:6ac6d2e017a997795ef21eaeb57d8d3ff3fcf247ecc83528de33638b4c864e92",
+    "code_commit": "0c8e82ad98fe883338e42acf1070605ecb799013"
+  },
+  "verdict": "positive",
+  "decision_rule": "positive ⟺ P_base≥0.50 且 I80下界≥0.35；|P−0.5|<5pp→borderline（analysis_plan §1）",
+  "expected_effect_size": {
+    "pi_obs_mean_base": {
+      "pbo": 0.06441093048258319,
+      "800": 0.11691184472145727,
+      "1200": 0.14770501867130426
+    },
+    "note": "obs = NRI-attenuated observable rates; true Δ prior median ≈ 11.7pp (1200mg)"
+  },
+  "required_effect_size": {
+    "see": "artifacts/model/design_implied_delta.csv",
+    "headline": "p0=7%, dropout=30% 时 90% power 所需真实 Δ ≈ 11.5pp"
+  },
+  "scenario_table": [
+    {
+      "scenario": "S1_optimistic",
+      "weight": 0.2,
+      "P_given_scenario": 0.9589301337332833,
+      "contribution": 0.1918
+    },
+    {
+      "scenario": "S2_neutral",
+      "weight": 0.45,
+      "P_given_scenario": 0.8671235611151773,
+      "contribution": 0.3902
+    },
+    {
+      "scenario": "S3_conservative",
+      "weight": 0.25,
+      "P_given_scenario": 0.5806276403138202,
+      "contribution": 0.1452
+    },
+    {
+      "scenario": "S4_pessimistic",
+      "weight": 0.1,
+      "P_given_scenario": 0.25612848689771767,
+      "contribution": 0.0256
+    }
+  ],
+  "assumption_cells": [
+    {
+      "cell": "base: hochberg/NRI/α.05-2s/any-dose",
+      "P": 0.75284
+    },
+    {
+      "cell": "fixed_sequence(1200→800)",
+      "P": 0.758075
+    },
+    {
+      "cell": "both_doses_required",
+      "P": 0.566725
+    },
+    {
+      "cell": "single_1200_only",
+      "P": 0.758075
+    },
+    {
+      "cell": "missing=MI",
+      "P": 0.78005
+    },
+    {
+      "cell": "alpha=0.025(one-sided-equiv)",
+      "P": 0.710255
+    }
+  ],
+  "sensitivity": {
+    "tornado": "artifacts/model/tornado.csv",
+    "prior_robustness_grid": "artifacts/model/prior_robustness_grid.csv"
+  },
+  "llm_calls": {
+    "cost_report": "ledger/cost_report.csv",
+    "artifacts": "artifacts/llm/"
+  },
+  "cost_usd_total": null,
+  "attestation": "Predictions will use only public information retrieved at or before cutoff_utc; no post-cutoff information will be used.",
+  "amendments": [
+    {
+      "ts_utc": "2026-10-08T07:30:00Z",
+      "type": "cost_and_llm_completion",
+      "note": "LLM 管线 R1–R4 完成（deepseek-chat，4+1 次调用，均 temperature=0），MVP 运行期总成本 $0.018，明细见 ledger/cost_report.csv；R3 红队压力测试（不改冻结先验）结果 P∈[0.678,0.720]，见 REPORT.md §8；R4 审校 pass=false 经人工裁决不采纳为阻断项，处置留痕于 REPORT.md §11。核心预测字段（verdict/P/inputs）未变动。"
+    }
+  ]
+}

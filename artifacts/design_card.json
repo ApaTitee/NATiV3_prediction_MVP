@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "created_utc": "2026-10-08T07:00:00Z",
+    "method": "CTG 机械抽取 (design_card_raw.json) + 公司 PR/deck 人工核对；每条事实挂 evidence.csv claim_id",
+    "cutoff_utc": "2026-10-08T07:00:00Z"
+  },
+  "trial": {
+    "nctId": "NCT04849728",
+    "name": "NATiV3",
+    "drug": "lanifibranor (IVA337), pan-PPAR α/δ/γ agonist",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "hasResultsSection": false,
+    "lastUpdatePostDate": "2026-07-02",
+    "_claims": ["C01", "C19"]
+  },
+  "design": {
+    "phase": "3",
+    "allocation": "RANDOMIZED 1:1:1",
+    "masking": "double-blind placebo-controlled (DBPC, Part A, 72w) + open-label extension (Part B/ATE, 48w)",
+    "arms": ["lanifibranor 800 mg/day", "lanifibranor 1200 mg/day", "matching placebo"],
+    "main_cohort_n": 1009,
+    "exploratory_cohort_n": 410,
+    "target_n_main": 969,
+    "per_arm_n_main": 336,
+    "stratification": ["fibrosis stage", "diabetic status"],
+    "_claims": ["C03", "C05", "C07"]
+  },
+  "population": {
+    "main_cohort": "biopsy-proven non-cirrhotic MASH, central reading SAF A3/A4 + F2/F3",
+    "exploratory_cohort": "F1/F4 (screen-failed for main cohort)",
+    "glp1_sglt2": "stable dose >=3 months allowed; GLP-1 initiation after randomization allowed",
+    "weight": "stable >=6 months (<=5% change)",
+    "t2d_share_nativ3": 0.55,
+    "f3_share_nativ3": 0.348,
+    "_claims": ["C04", "C08", "C20"]
+  },
+  "primary_endpoint": {
+    "verbatim": "Resolution of NASH and improvement of fibrosis at Week 72, defined by NASH CRN scores for ballooning of 0 and inflammation of 0 to 1, and fibrosis score ≥1 stage decrease compared to Baseline",
+    "type": "composite (BOTH conditions required)",
+    "timeframe": "Week 72 (Part A DBPC), central reading",
+    "key_secondaries": ["MASH resolution with no worsening of fibrosis", "fibrosis improvement with no worsening of MASH"],
+    "_claims": ["C02"]
+  },
+  "success_criterion_slots": {
+    "alpha_two_sided": {"value": 0.05, "status": "assumed", "note": "SAP 未公开"},
+    "multiplicity": {"value": "Hochberg (2 doses vs shared placebo)", "status": "assumed", "note": "未公开；基线假设，矩阵含固定顺序/须同时显著"},
+    "interim_alpha_spend": {"value": "none", "status": "assumed", "note": "未见任何 efficacy interim 证据；5 次 DMC 均为安全性审查"},
+    "test": {"value": "CMH stratified (fibrosis stage, diabetic status)", "status": "assumed", "note": "分层因素见 C07；以两比例 z 近似"},
+    "estimand": {"value": "ITT", "status": "assumed"},
+    "missing_biopsy": {"value": "NRI (non-responder imputation)", "status": "assumed", "note": "MASH 领域惯例；矩阵含 MI"},
+    "decision_dose": {"value": "any dose significant", "status": "assumed", "note": "Hochberg 下等价"}
+  },
+  "timeline": {
+    "lplv": "2026-09",
+    "topline_expected": "Q4 2026",
+    "nda_if_positive": "H1 2027",
+    "_claims": ["C06", "C18"]
+  },
+  "execution": {
+    "dropout_covenant": "<30% before week 72 (as of 2025-04-01, financing condition)",
+    "dmc": "5th DMC positive recommendation (2024-10-30), safety only",
+    "_claims": ["C05"]
+  }
+}

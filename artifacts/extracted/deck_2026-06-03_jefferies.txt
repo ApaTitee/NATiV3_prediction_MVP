@@ -1,0 +1,980 @@
+Advancing Lanifibranor:
+Potential Best-in-Disease
+Oral Therapy for MASH
+A DIFFERENTIATED ORAL ANTIFIBROTIC FOR MASH
+Jefferies Global Healthcare Conference 
+June 3, 2026
+
+2
+Forward-looking statements 
+This presentation contains certain "forward-looking statements" within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical facts, included in this presentation are forward-looking statements. 
+These statements include, but are not limited to, Inventiva’s expectations regarding its ability to execute it’s new debt facility with BlackRock and Claret Capital Partners (the ‘Debt Financing Transaction”), agreement to repurchase certain of the EIB’s existing warrants (the “EIB 
+Transaction”) and underwritten offering of ADSs (the “Equity Offering”), each announced on June 2, 2026 and subject to closing conditions (collectively, the “Combined Transaction”), in whole or in part and the timing thereof, including the timing of issuances of securities and receipt of 
+proceeds in the Combined Transaction, Inventiva’s ability to satisfy conditions to the subscription agreement with BlackRock and Claret Capital Partners and related debt financing documents (collectively, the “Issue Documents”), including any additional equity financings, any approval of 
+Inventiva’s shareholders required by the Combined Transaction, including the expect timing of any such required approval and the impacts of Inventiva’s failure to obtain such approval, including with respect to waivers made by the EIB of certain anti-dilution and put option rights in 
+connection with the EIB Transactions and the exercise ratio applicable to the EIB’s warrants, the timing of and Inventiva’s ability to draw down the committed amounts from BlackRock and Claret Capital Partners, the occurrence of an event of default under the Issue Documents, the potential 
+exercise of warrants, including the T3 warrants issued by Inventiva on May 7, 2025, the expected timing, size and use of proceeds of the Debt Financing Transaction and the Equity Offering, forecasts and estimates with respect to Inventiva’s current cash resources, and expected cash 
+resources following the completion of the Combined Transaction, Inventiva’s expectations with respect to ownership in its share capital by certain investors, Inventiva’s capitalization following the completion of the Combined Transaction, Inventiva’s NATiV3 Phase 3 clinical trial of 
+lanifibranor in MASH, including the timing of clinical trial data releases and regulatory filings and future activities, expectations, plans, growth and prospects of Inventiva, and the absence of material adverse events. Certain of these statements, forecasts and estimates can be recognized by 
+the use of words such as, without limitation, "believes", "anticipates", "expects", "intends", "plans", "seeks", "estimates", "may", "will", "would", "could", "might", "should", "designed", "hopefully", "target", "potential", "opportunity", "possible", "aim", and "continue" and similar 
+expressions. Such statements are not historical facts but rather are statements of future expectations and other forward-looking statements that are based on management's beliefs. These statements reflect such views and assumptions prevailing as of the date of the statements and involve 
+known and unknown risks and uncertainties that could cause future results, performance, or future events to differ materially from those expressed or implied in such statements. Actual events are difficult to predict and may depend upon factors that are beyond Inventiva's control. There can 
+be no guarantees with respect to the product candidate that the clinical trial results will be available on the anticipated timeline, that future clinical trials will be initiated as anticipated, that the product candidate will receive the necessary regulatory approvals, or that any of the anticipated 
+milestones by Inventiva or its partners will be reached on their expected timeline, or at all. Future results may turn out to be materially different from the anticipated future results, performance or achievements expressed or implied by such statements, forecasts and estimates due to a 
+number of factors, including the completion of financial closing procedures, that interim data or data from any interim analysis of ongoing clinical trials may not be predictive of future trial results, that the recommendation of the DMC may not be indicative of a potential marketing approval, 
+Inventiva cannot provide assurance on the impacts of the Suspected Unexpected Serious Adverse Reaction on the results or timing of the NATiV3 trial or regulatory matters with respect thereto, that Inventiva is a clinical-stage company with no approved products and no historical product 
+revenues, Inventiva has incurred significant losses since inception and has never generated any revenue from product sales, Inventiva will require additional capital to finance its operations, in the absence of which, Inventiva may be required to significantly curtail, delay or discontinue one or 
+more of its research or development programs or be unable to expand its operations or otherwise capitalize on its business opportunities and may be unable to continue as a going concern, Inventiva’s ability to obtain financing and to enter into potential transactions, on the expected timing 
+or at all, Inventiva’s ability to satisfy in part or in full the conditions for the Combined Transaction, on the expected timing or at all, and whether, when and to what extent the securities issued in the Combined Transaction, as well as any other dilutive instruments may be exercised, and by 
+which holders, Inventiva’s ability to obtain shareholder approvals required by the Combined Transaction, Inventiva's future success is dependent on the successful clinical development, regulatory approval and subsequent commercialization of its lanifibranor, preclinical studies or earlier 
+clinical trials are not necessarily predictive of future results and the results of Inventiva's and its partners’ clinical trials may not support Inventiva's and its partners’ product candidate claims, Inventiva's expectations with respect to its clinical trials may prove to be wrong and regulatory 
+authorities may require additional holds and/or additional amendments to Inventiva’s clinical trials, Inventiva’s expectations with respect to the clinical development plan for lanifibranor for the treatment of MASH may not be realized and may not support the approval of a New Drug 
+Application, Inventiva’s ability to identify additional products or product candidates with significant commercial potential, Inventiva’s ability to execute on its commercialization, marketing and manufacturing capabilities and strategy, Inventiva’s ability to successfully cooperate with existing 
+partners or enter into new partnerships, and to fulfill its obligations under any agreements entered into in connection with such partnerships, the benefits of its existing and future partnerships on the clinical development, regulatory approvals and, if approved, commercialization of its 
+product candidate, and the achievement of milestones thereunder and the timing thereof, Inventiva and its partners may encounter substantial delays beyond expectations in their clinical trials or fail to demonstrate safety and efficacy to the satisfaction of applicable regulatory authorities, 
+the ability of Inventiva and its partners to recruit and retain patients in clinical studies, enrollment and retention of patients in clinical trials is an expensive and time-consuming process and could be made more difficult or rendered impossible by multiple factors outside Inventiva's and its 
+partners’ control, Inventiva's product candidate may cause adverse drug reactions or have other properties that could delay or prevent its regulatory approval, or limit their commercial potential, Inventiva faces substantial competition and Inventiva’s business, and pre-clinical studies and 
+clinical development programs and timelines, its financial condition and results of operations could be materially and adversely affected by changes in laws and regulations, unfavorable conditions in its industry, geopolitical events, and ongoing conflicts, health epidemics, and 
+macroeconomic conditions, including developments in international trade policies, global inflation, financial and credit market fluctuations, tariffs and other trade barriers, political turmoil, and natural catastrophes, uncertain financial markets and disruptions in banking systems. Given the 
+risks and uncertainties, no representations are made as to the accuracy or fairness of such forward-looking statements, forecasts, and estimates. Furthermore, forward-looking statements, forecasts and estimates only speak as of the date of this presentation. Readers are cautioned not to 
+place undue reliance on any of these forward-looking statements.
+Please refer to the Universal Registration Document for the year ended December 31, 2025 filed with the Autorité des Marchés Financiers on April 8, 2026, and the Annual Report on Form 20-F for the year ended December 31, 2025 filed with the SEC on April 8, 2026 for other risks and 
+uncertainties affecting Inventiva, including those described under the caption "Risk Factors", and in future filings with the SEC. Other risks and uncertainties of which Inventiva is not currently aware may also affect its forward-looking statements and may cause actual results and the timing 
+of events to differ materially from those anticipated. All information in this presentation is as of the date of the release. Except as required by law, Inventiva has no intention and is under nCo obligation to update or review the forward-looking statements referred to above. Consequently, 
+Inventiva accepts no liability for any consequences arising from the use of any of the above statements.
+Disclaimers
+This presentation does not constitute an offer to sell or the solicitation of an offer to buy securities in any jurisdiction, and shall not constitute an offer, solicitation or sale in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the 
+securities laws of that jurisdiction.
+
+Business Structured To Deliver Topline Results 
+Expected in Q4 2026 and Prepare For Potential Launch 
+3
+Clinical momentum, financial backing and strong leadership
+2024
+October 2024
+Successful PIPE financing
+• €348M raised
+2025
+April 2025
+Last patient 
+enrolled in NATiV3
+Summer 2025
+Strengthened the leadership team
+• CMO, President R&D: 
+Jason Campagna, MD
+• EVP Regulatory: 
+Martine Zimmermann, PharmD
+• Leadership has extensive 
+experience in MASH, clinical trial 
+execution, FDA approvals, 
+commercial launch and strategic 
+transactions
+October 2025
+Andrew Obenshain named CEO
+• Broad industry experience
+• Extensive commercial focus
+• Inflection point for Inventiva’s 
+continued growth and 
+transition
+November 2025
+Successful 
+follow-on financing
+• €149M raised
+• Top Tier existing 
+and new investors
+December 2025
+Nazira Amra
+named CCSO
+H1 2026
+Reinforced the leadership team
+• CFO, Axel-Sven Malkomes 
+• CLO, Susan Coles
+• CPO, Pamela Herbster
+June 2026
+New €150M debt facility1 
+with Blackrock/Claret, 
+2030 maturity, to replace 
+EIB loan facility
+Agreement to repurchase 
+60% of EIB warrant
+ADS offering of up to 
+€95.2M (anticipated net 
+proceeds)
+1. New debt facility signed, subject to closing, for up to €130 million in committed tranches, subject to conditions, plus an additional uncommitted tranche of up to €20 million.
+
+Topline Data Expected in Q4 2026, NDA Filing Expected in H1 2027
+Lanifibranor has the potential to be the second oral liver-directed agent for the treatment of MASH if approved 
+Lanifibranor 
+Last patient 
+randomized
+April 2025
+Expected topline 
+results
+Q4 2026
+2025 2026 2027 2028
+Expected NDA filing 
+with FDA
+H1 2027
+Planned 
+confirmatory 
+trial start
+2027
+Potential 
+market rollout 
+2028
+2020
+Positive 
+primary and 
+secondary 
+endpoints in 
+Phase 2b 
+June 2020
+Receive FDA 
+Breakthrough 
+Therapy 
+designation
+October 2020
+2021
+4
+
+MASH market expected to 
+exceed $15 billion 
+by 2035.
+Inventiva is 
+well-positioned to 
+potentially bring the 
+best-in-disease 
+oral drug to patients
+with progressive 
+fibrotic MASH.
+Underdiagnosed and Undertreated, With 
+Rapidly Expanding Commercial Validation
+A potential multi-billion-dollar opportunity for lanifibranor
+~18M
+Total MASH Population1
+~1.9M
+Diagnosed MASH Population2
+910K
+Diagnosed F2 / F3 MASH 
+Population2
+~374K
+F2 / F3 & Under 
+Treater Care2
+MASLD
+MASH
+(without 
+fibrosis)
+MASH
+(with fibrosis 
+F1/F2)
+MASH
+(F3)
+MASH + 
+compensated 
+cirrhosis (F4CC)
+MASH + 
+decompensated 
+cirrhosis
+Only 10% of the 
+overall patient 
+population diagnosed
+Clinically 
+actionable patient 
+population F2/F3 
+TREATABLE MASH POPULATION
++25%
+Compared
+to the 2024
+estimate
++20%
+Compared
+to the 2024 
+estimate
+1. Estes. 2018. Hepatology;  2) Analysis conducted by Forian using CHRONOS
+  ©2025 Forian Inc. and its licensors. All Rights Reserved; 3) DataM 
+Intelligence November 2025 5
+
+If approved, lanifibranor, due to its dual mechanism combining intra- 
+and extra-hepatic activities, could address highly underserved MASH 
+patient segments.
+If Phase 3 confirms the Phase 2b profile, if approved, lanifibranor has 
+the potential to offer a differentiated treatment option.
+Lanifibranor’s Profile In Key MASH Patient Segments, 
+Based On Phase 2b Data – Subject To Phase 3 Confirmation
+Potential best-fit patient groups for lanifibranor
+MASH F2 Fibrosis MASH F3 Fibrosis
+Non-T2D
+Relevant competitive opportunity (~27%)
+Broad disease modification potential
+Meaningful clinical fit (~12%)
+Significant fibrosis improvement in high-risk patients
+T2D
+Highly-competitive target segment (~36%)
+Fibrosis improvement + HbA1c reduction 
+Strong differentiation potential (~25%)
+Fibrosis improvement + HbA1c reduction 
+T2D= Type 2 diabetes
+6
+
+Balanced Pan-PPAR 
+Designed to Address 
+the Biology of MASH
+A new chemical entity engineered to deliver 
+coordinated metabolic, anti-inﬂammatory and 
+antiﬁbrotic effects
+7
+
+Rational Pan-PPAR Design Informed By Decades Of Biology
+Lanifibranor: Low-potency, balanced PPAR-α/δ/γ activation designed to avoid receptor dominance
+Potential ﬁrst-in-class 
+new chemical entity
+Distinct from ﬁbrates and 
+thiazolidinediones (TZDs).
+1st
+Balanced & low potency 
+across all three isoforms
+Engineered to mirror the safe 
+potency range of pioglitazone 
+and avoid the high γ-potency 
+of rosiglitazone (~ 20x higher).
+Balanced PPAR
+isoforms engagement
+Avoid dominance of a 
+single receptor and 
+delivers coordinated 
+metabolic, inﬂammatory, 
+and antiﬁbrotic activity.
+Differentiated 
+co-activator fingerprint
+Enable metabolic, 
+anti-inflammatory, 
+and antifibrotic benefits.
+Lanifibranor has been designed at the 
+physiologic sweet spot aiming for 
+broad and best-in-class efficacy and 
+a clean and durable safety profile
+Engineered to maximize 
+therapeutic benefit without 
+transcriptional overload or 
+high-potency risks
+PPARs enable coordinated 
+modulation of the metabolic, 
+inflammatory, and fibrotic 
+pathways at the core of MASH
+A new chemical entity (not a ﬁbrate, not a TZD) with 
+FDA breakthrough therapy & fast track designation
+hPPAR
+hPPAR
+hPPAR
+Lanifibranor (M)
+-10 -8 -6 -4
+0
+25
+50
+75
+100
+125
+150
+% Activation
+Rosiglitazone
+Lanifibranor
+BALANCED RECEPTOR 
+ACTIVATION PROFILE
+SELECTIVE CO-FACTOR 
+RECRUITMENT PROFILE
+8
+
+Absence of class-defining toxicities — no evidence of:
+Cardiac Toxicity Renal Toxicity Skeletal Muscle Toxicity
+Bladder Findings Proliferative Findings
+Clear differentiation vs 
+historical PPAR liabilities
+FDA Class Clinical Hold Lifted1
+Well Characterized and Differentiated Preclinical Safety Profile
+Validated for long-term (≥6 months) and Phase 3 study
+Inventiva-PR-Lifting-of-clinical-hold-EN-23-05-19.pdf
+NO CARCINOGENIC FINDINGS
+2-year rodent studies
+Rat: No neoplastic changes or increased 
+tumor types associated with single PPARγ or 
+dual PPARα/γ agonists — including liver, 
+adipose, bladder, renal, and skin
+Mouse: No neoplastic changes of human 
+relevance observed
+FAVOURABLE TOLERABILITY PROFILE
+12-month primate study
+• No adverse clinical signs at any dose level tested
+• No effects on body or heart weight; 
+no haemodilution or creatinine increase
+• ECG and clinical pathology investigations 
+revealed no undesirable effects
+9
+
+Striking The PPAR Balance
+PPARs enable coordinated modulation of the metabolic, inflammatory, and fibrotic pathways
+LIVER
+Steatosis (abnormal fat buildup)
+PPAR-γ
+Fatty acid uptake
+Fatty acid breakdown (catabolism)
+Fat creation (lipogenesis)
+Inflammation and BallooningPPAR-γ, 
+PPAR-α, 
+PPAR-δ
+NFkB-dependent gene activation
+Inflammasome
+Ballooning
+Fibrosis
+PPAR-γ, 
+PPAR-α Stellate cell proliferation and activation
+Collagen and fibronectin production
+Vascular
+PPAR-γ,
+ PPAR-δ
+Portal pressure
+LSEC capillarization
+Intrahepatic vascular resistance
+WHOLE BODY
+Metabolism
+PPAR-γ, PPAR-α, PPAR-δ
+HbA1c
+Fasting Glucose 
+HDL-C
+HOMA-IR
+Fasting Insulin 
+Triglycerides
+Adiponectin
+10
+
+Clinical Milestones
+Phase 2b NATIVE trial showed compelling data; 
+Phase 3 NATiV3 now underway, with topline results expected in Q4 2026
+11
+
+Main Inclusion Criteria
+Patients with biopsy-proven MASH 
+confirmed to have Steatosis-Activity-
+Fibrosis (SAF) scores of 1-3 for steatosis, 
+3-4 for activity, and <4 for fibrosis
+Phase 2b NATIVE Trial Design
+12
+Once-daily oral dosing; two doses, 800mg and 1200mg
+1. A Randomized, Controlled Trial of the Pan-PPAR Agonist Lanifibranor in NASH, N Engl J Med 2021;385:1547-1558
+lanifibranor, 800 mg once daily
+lanifibranor, 1200 mg once daily
+Placebo
+End of treatment 
+Liver biopsy
+Screening
+Liver biopsy
+24-week treatment + 4-week follow-up
+Double blind, randomized, placebo-controlled ITT: 247 patients
+1:1:1 randomization
+Stratification on type 2 diabetes
+100
+80
+60
+40
+20
+0
+NUMBER OF PATIENTS
+DISEASE STAGE
+F1 F2 F3
+53
+102
+86
+
+NATIVE Phase 2b Trial Results Support Antiﬁbrotic 
+Activity With Broader Metabolic Impact
+13
+Histologic improvement observed alongside favorable 
+cardiometabolic markers at 24 weeks
+Histologic improvement observed 
+alongside improved glycemic, and 
+cardiometabolic markers
+effect size on 
+improvement in fibrosis 
+with no worsening of 
+MASH versus placebo
+effect size on the
+dual endpoint of 
+fibrosis improvement 
+and MASH resolution
+24%18%
+24weeks
+
+Histologic Improvement Supported By Broad Biomarker Evidence 
+Across Metabolic, Inflammatory And Fibrotic Pathways
+14
+A Randomized, Controlled Trial of the Pan-PPAR Agonist Lanifibranor in NASH, N Engl J Med 2021;385:1547-1558; Cooreman MP et al. Nature Communications 2024;15:3962; LEGEND results 
+presented March 2024; IIS-study led by Dr. Cusi presented June 2023.
+INTRA-HEPATIC BENEFITS EXTRA-HEPATIC BENEFITS
+STEATOSIS
+measured by 
+CAP
+MRI-PDFF
+STEATOHEPATITIS
+Circulating biomarkers 
+of inflammation fibrosis: 
+Ferritin, hs-CRP, cT1
+and apoptosis: CK18-M30
+FIBROSIS
+circulating 
+biomarkers of 
+ﬁbrosis: Pro-C3, 
+TIMP-1/MMP-2, 
+MACK-3
+HEALTHY
+CIRRHOSIS
+Liver Enzymes
+ALT
+AST
+GGT
+Glucose Metabolism Markers
+Improves insulin sensitivity and 
+glycemic control
+Fasting Glucose
+Fasting Insulin
+Hba1c
+Fasting HOMA Index
+Hepatic Insulin Resistance
+Endogenous Glucose Production
+Improves markers of 
+glucose metabolism in 
+patients with prediabetes
+Metabolic and Anti-fibrotic 
+Mediator
+Adiponectin (4.5x)
+Cardiovascular Risk Markers
+Improves cardiovascular risk
+and lipids metabolism
+HDL-C
+Triglycerides levels 
+LDL-cholesterol level
+APO-B
+APO-B/APO-A1
+APO-C3
+DBP
+
+Lanifibranor Demonstrates Efficacy Across Early 
+and Late-stage Disease, With And Without Diabetes
+15
+Dual endpoint signal strengthens in F2/F3 patients and in patients with T2D vs. all-comers
+7%
+21%
+31%
+7%
+24%
+33%
+p=0.017* p<0.001*
+14% effect size
+24% effect size
+17% effect size
+26% effect size
+3%
+24%
+29%
+21% effect size
+26% effect size
+Resolution of MASH 
+and improvement of ﬁbrosis
+All patients (N=247)
+Phase 3 primary endpoint
+Resolution of MASH 
+and improvement of fibrosis
+F2/F3 patients only (N=188)
+F1 patients excluded
+Signal grows vs.
+all-comers in:
+F2/F3 (+3%)
+T2D (+2%)
+Resolution of MASH 
+and improvement of fibrosis
+Patients with T2D (N=103)
+w/ diabetes subgroup
+Placebo
+Lanifibranor 800 mg
+Lanifibranor 1200 mg
+
+
+Placebo
+2.4 mg
+Comparison of Lanifibranor with Other Oral and Injectable Compounds 
+16
+**Resmetirom and semaglutide have been approved under accelerated approval by the FDA, and Resmetirom has been approved under conditional approval by the EMA. Source: lanifibranor native results; Efruxifermin Safety and efficacy of once-weekly efruxifermin versus placebo in non-alcoholic steatohepatitis (HARMONY): a multicentre, randomised, 
+double-blind, placebo-controlled, Phase 2b trial. Lancet Gastroenterology October 2023 ; Semaglutide Phase 3 ESSENCE trial of semaglutide 2.4mg in participants with non-cirrhotic non-alcolohic steatohepatitis; Newsome et al.; Resmetirom MAESTRO MASH top-line results webcast Dec. 19 2022, pg 10 and EASL 2023 presentation pg. 8; Efruxifermin EASL 2023 
+presentation pg. 8, corporate presentation of March 2024 pg 22; Survodutide A Phase 2 randomized trial for Survodutide in MASH and fibrosis, The NEJM DOI: 10.1056/NEJMoa2401755; Tirzepatide Tirzepatide for Metabolic Dysfunction-Associated Steatohepatitis with Liver Fibrosis, The NEJM DOI: 10.1056/NEJMoa2401943 
+Placebo
+800mg
+1200mg
+Placebo
+800mg
+1200mg
+Phase 2
+(6 months)
+N=247
+RESOLUTION MASH AND FIBROSIS 
+IMPROVEMENT ≥ LEAST 1 STAGE
+FIBROSIS IMPROVEMENT ≥ 1 STAGE WITH
+NO WORSENING OF MASH
+MASH RESOLUTION WITH 
+NO WORSENING OF FIBROSIS
+Placebo
+80mg
+100mg
+Placebo
+800mg
+1200mg
+Placebo
+800mg
+1200mg
+Placebo
+80mg
+100mg
+Placebo
+2.4mg
+LANIFIBRABOR
+(Pan-PPAR (α/γ/δ)
+RESMETIROM
+(THR-β)
+SEMAGLUTIDE
+(GLP1-RA)
+ORALINJECTABLE
+EFRUXIFERMIN
+(FGF-21)
+Phase 3
+(12 months)
+N=955
+Placebo
+28mg
+50mg
+Placebo
+15mg QW¹
+30mg QW**
+44mg Q2W**
+Placebo
+28mg
+50mg
+Phase 2b
+(6 months)
+N=128
+Phase 2b
+(24 months)
+N=126
+PEGOZAFERMIN 
+(FGF-21)
+Phase 2
+(6 months)
+N=222
+Phase 3
+(18 months)
+N=800
+SURVODUTIDE
+(GLP1-RA Dual Agonists)
+TIRZEPATIDE
+(GLP1-RA Dual Agonists)
+Endpoint Not Disclosed
+Endpoint Not Disclosed
+Phase 2
+(12 months)
+N=223 F2/F3
+Phase 2
+(12 months)
+N=190
+28%
+Effect Size
+28%
+Effect Size
+20%
+Effect Size
+16.6%
+Effect Size
+11%
+Effect Size
+24%
+Effect Size
+Placebo
+2.4mg
+Placebo
+28mg
+50mg
+Placebo
+15mg QW
+30mg QW
+44mg Q2W
+Placebo
+2.4mg QW
+4.8mg QW
+6.0mg QW
+Placebo
+5MG
+10mg
+15mg
+Placebo
+28mg
+50mg
+14%
+Effect Size
+30%
+Effect Size
+20%
+Effect Size
+14%
+Effect Size
+12%
+Effect Size
+18%
+Effect Size
+21%
+Effect Size
+21%
+Effect Size
+Placebo
+28mg
+50mg
+Placebo
+15mg QW
+30mg QW
+44mg Q2W
+Placebo
+28mg
+50mg
+Placebo
+2.4mg QW
+4.8mg QW
+6.0mg QW
+Placebo
+5MG
+10mg
+15mg
+46%
+Effect Size
+18%
+Effect Size
+24%
+Effect Size
+29%
+Effect Size
+20%
+Effect Size
+26%
+Effect Size
+35%
+Effect Size
+52%
+Effect Size
+
+
+Lanifibranor was 
+intentionally designed 
+with low potency and 
+balanced PPAR-α/δ/γ
+activation to mitigate 
+class-related safety 
+liabilities.
+Early clinical data are 
+consistent with the 
+safety design 
+hypothesis.
+Placebo
+(N = 81)
+800 mg
+(N = 83)
+1200 mg
+(N = 83)
+Diarrhea 1 (1%) 8 (10%) 10 (12%)
+Fatigue§ 8 (10%) 3 (4%) 11 (13%)
+Nausea 3 (4%) 8 (10%) 7 (8%)
+Weight Gain - 8 (10%) 7 (8%)
+Peripheral Edema** 2 (2.5%) 5 (6%) 7* (8%)
+Drug-related Peripheral Edema - 2 (2%) 2 (2%)
+Headache 4 (5%) 4 (5%) 7 (8%)
+Abdominal Painỻ 4 (5%) 4 (5%) 5 (6%)
+Dizziness 3 (4%) 2 (2%) 6 (7%)
+Anemiaǂ - 1 (1%) 6 (7%)
+Constipation 6 (7%) 3 (4%) 5 (6%)
+Increase In Aminotransferase Levelᶲ 1 (1%) 5 (6%) 3 (4%)
+• ~50% of treated patients 
+had no weight gain
+• Where weight gain occurred 
+(~30% had >5%), fewer than 
+10% were ﬂagged as AEs by 
+investigators
+• Weight gain coincided with 
+broad metabolic 
+improvement:
+ Adiponectin
+ Lipids
+ Liver Enzymes
+ Liver Histology
+NATIVE Safety and Tolerability Profile 
+Investigator-reported most-frequent adverse events1
+¶ Adverse events are the ones reported by investigators and include those that occured in more than 5% of patients in either lanifibranor group. § 
+Fatigue included asthenia. ỻ Abdominal pain included upper and lower abdominal pain. 
+** Peripheral edema (bilateral ankle edema): usually mild, in most cases no treatment was required, a few patients received diuretics. 4 cases were 
+considered study drug related by the investigator (2 at 800 and 1200 mg each). One case of severe intensity, which resolved by stopping treatment 
+(lanifibranor 1200mg) for 12 days, without reoccurrence when the study treatment was resumed. All were female patients. ǂ Anemia included iron 
+deficiency anemia and decrease hemoglobin level. 
+ᶲ Increase in aminotransferase level included increased in ALT, AST, or abnormal liver function test result. 17
+
+NATiV3 Design Anchored in NATIVE Outcomes
+Dose, population, and endpoints aligned with NATIVE 
+to preserve observed treatment effect.
+48 WEEKS EoT
+Lanifibranor: 1200 mg once daily
+Lanifibranor: 800 mg once daily
+72 WEEKS OF TREATMENT
+Lanifibranor: 1200 mg once daily
+Lanifibranor: 800 mg once daily
+Placebo: once daily
+N=1009
+Lanifibranor: 1200 mg once daily
+Lanifibranor: 800 mg once daily
+Placebo: once daily
+N=410
+EXPLORATORY COHORT
+MAIN COHORT
+ACTIVE TREATMENT 
+EXTENSION TRIAL
+72 WEEKS OF TREATMENT
+All patients who complete the 
+main or the exploratory cohort 
+are eligible for the Phase 3 
+active treatment extension trial
+End Of 
+Treatment 
+Biopsy
+Noncirrhotic MASH 
+and F2-F3 fibrosis
+Screen-failed 
+patients from the 
+main cohort: 
+F1-F4 fibrosis
+1. EoT, end of treatment; GLP-1, glucagon-like peptide-1; GLP-1-RA, glucagon-like peptide-1 receptor agonist; MASH, metabolic 
+dysfunction-associated steatohepatitis.
+NATiV3 CLINICAL TRIAL
+Primary Endpoint 
+Composite end point of patients having 
+both MASH resolution and 1 stage of 
+ﬁbrosis improvement
+Key Secondary Endpoints 
+MASH resolution and no worsening of 
+ﬁbrosis, ﬁbrosis improvement, and no 
+worsening of MASH
+GLP-1 Inclusion
+• Patients under a stable dose of 
+GLP-1-RA for at least 3 months 
+prior to screening can be included
+• Patients can initiate a GLP-1-R 
+after randomization into the study
+Statistical Powering 
+• 90% considered for sample size 
+calculations
+• Stratiﬁcation by ﬁbrosis stage and 
+diabetic status
+• NATiV3 fully recruited
+18
+
+NATiV3 Population Consistent With NATIVE, Reflecting Real-world MASH
+19
+Higher diabetes prevalence and more advanced ﬁbrosis 
+10.0% 2.8%
+sGLT2i
+GLP-1 RA
+14.0%
+0.0%
+59%
+41%
+58%
+42%
+Female Male
+97.10 93.30
+Weight (kg)
+(± 23.6) (± 18.8)
+mean ± SD 
+median: NATiV3 = 95kg | 
+NATIVE = 92kg
+75%
+65%
+BMI Class
+ Obese (≥30) 
+55%
+42%
+T2D
+9.8 10.1
+HOMA-IR 
+mean ± SD
+(± 10.2) (± 12.7)
+6.5% 6.0%
+median: NATiV3 = 6.2% | 
+NATIVE = 5.9%
+HbA1c 
+mean ± SD
+4.6
+5.1
+Adiponectin (µg/mL)
+mean ± SD
+(± 2.7) (± 2.7)
+median: NATiV3 = 4.0 | 
+NATIVE = 4.5
+33%
+41.3%
+F2 F3
+1.35 1.19
+Fib-4
+median score
+10.1 8.9
+LSM
+median (kPa)
+329 327
+CAP
+median (dB/m)
+50 51
+ALT
+median (U/L)
+9.6 9.7
+ELF
+median score
+40 37
+AST
+median (U/L)
+mean ±SD: NATiV3 = 11.1 ± 
+4.9 | NATIVE = 10.09 ± 5.02
+mean ±SD: NATiV3 = 324 ± 
+48 | NATIVE = 327.7 ± 43.2
+mean ±SD: NATiV3 = 59 ± 
+36 | NATIVE = 62 ± 39
+mean ±SD: NATiV3 = 47 ± 
+26 | NATIVE = 47 ± 32
+mean ±SD: NATiV3 = 1.49 ± 
+0.75 | NATIVE = 1.41 ± 0.87
+mean ±SD: NATiV3 = 9.7 ± 
+0.9 | NATIVE = 9.7 ± 1.0
+67.0%
+34.8%
+LIVER DISEASE PROFILEDEMOGRAPHICS & METABOLIC PROFILE CO-MEDICATIONS
+NATiV3 (N=1009) NATIVE (N=247)
+
+cACLD Due to MASH
+Strong mechanistic rationale in a high unmet-need indication 
+20
+
+21
+Planned Regulatory Filing
+Intended filing for Accelerated Approval (FDA) and Conditional Approval 
+(EMA), subject to positive Phase 3 histology results
+Conﬁrming Potential Clinical Beneﬁt In Advanced 
+Chronic Liver Disease Due To Mash
+Anticipated Confirmatory Trial 
+Outcomes study in patients with compensated advanced chronic 
+liver disease due to MASH designed to confirm clinical benefits: 
+• Prevention of progression of the underlying liver disease physiology
+• Prevention or reduction of associated clinical outcomes: risk of 
+decompensation, liver transplant, death
+Preclinical and early clinical signals suggest lanifibranor 
+may provide a disease-modifying oral option for 
+patients with cACLD due to MASH, a high unmet need
+
+Conclusion
+22
+
+Topline Data Expected in Q4 2026, NDA Filing Expected in H1 2027
+Lanifibranor has the potential to be the second oral liver-directed agent for the treatment of MASH if approved 
+Expected topline 
+results
+Q4 2026
+2026 2027 2028
+Expected NDA filing 
+with FDA
+H1 2027
+Planned 
+confirmatory 
+trial start
+2027
+Potential 
+market rollout 
+2028
+23
+
+Cash Runway Projected Beyond Phase 3 Readout
+(1) Gross proceeds (2) Consisting of Cash and cash equivalents of €75 million, and €121.5 million in short-term deposits. (3) New debt facility signed, subject to closing, for up to €130 million in committed tranches, subject to conditions, plus an additional uncommitted tranche of up to €20 million. 
+(4) These estimates are based on the Company’s current business plan and assume the successful closing of the Equity Offering, the completion of the EIB Transactions and the issuance of Tranches A, B and C of the Debt Financing Transaction, and the exercise in full of the Tranche 3 warrants 
+previously issued by the Company in the Structured Financing for potential proceeds of up to €116.0 million, and exclude any potential milestones payable to or by the Company and any additional expenditures related to the product candidate or resulting from the potential in licensing or 
+acquisition of additional product candidates or technologies, or any associated development the Company may pursue. The Company may have based these estimates on assumptions that are incorrect, and the Company may end up using its resources sooner than anticipated. These estimates 
+may be shortened in the event of an increase, in expenditure relating to the development programs beyond the Company's expectations, or if the development program progresses more quickly than expected. There can be no assurance whether, and to what extent, the Tranche 3 warrants will be 
+exercised, if at all. (5) Excluding T3 fully diluted shares (77.3M). (6) Reflects the share capital of the Company following completion of the Equity Offering, the EIB Transactions, the issuance of Tranches A, B and C of the Debt Financing Transaction, and exercise in full of the Tranche 3 warrants
+previously issued by the Company in the Structured Financing.
+Q4 2025 Follow-on Raise of €149M1
+Q1 2026 Cash balance of €176.5M2
+Q2 2026 New debt facility of up to €150M3 with Blackrock and Claret, to replace 
+the EIB loan facility and priced equity raise of ~€95.3M (anticipated net proceeds)
+Q4 2026 Potential exercise of 3rd Tranche of Structured Financing of €116M post 
+Topline Readout
+ROYALTY CERTIFICATES
+Commences 
+Upon 
+Potential 
+Launch
+2% capped at €92M, 
+15-year term
+3%, 14-year term
+SHARES OUTSTANDING
+Pre-Transactions
+Fully Diluted Share Count5
+324M fully diluted, 
+including 209M 
+ordinary shares
+Post-Transactions
+Including Equity Offering, EIB 
+Transactions, T3 Fully 
+Exercised & Debt Financing6
+430M fully diluted, 
+including 236 
+ordinary shares
+STRATEGIC PARTNERSHIPS
+CTTQ
+Greater China
+$265 million in additional potential 
+milestones. Low-single-digit 
+royalty rate.
+Hepalys
+Japan, 
+South Korea
+$231 million in additional potential 
+milestones. Mid-double-digit to 
+low-20s tiered royalty rate.
+Cash runway into early Q1 
+2028, including: Equity 
+Offering, EIB Transaction, 
+T3 Fully Exercised & Debt 
+Financing4
+24
+
+2026 
+Executive Priorities: 
+Topline results of NATiV3 
+Phase 3 expected in Q4 
+2026 assessing endpoint: 
+Fibrosis improvement and 
+MASH resolution
+Regulatory filings 
+preparation, ready to move 
+swiftly if positive results
+Launch strategy readiness
+Pioneering the Future of MASH
+25
+Novel investigational pan-PPAR 
+agonist engages the core drivers 
+of fibrosis progression
+Phase 2b showed 18% effect size on 
+improvement of fibrosis with no 
+worsening of MASH versus placebo 
+after 6 months
+Phase 3 topline data readout 
+anticipated in Q4 2026
+Phase 2b showed 24% effect size 
+on improvement of fibrosis 
+and MASH resolution versus 
+placebo after 6 months
+
+inventivapharma.com
