@@ -286,6 +286,11 @@
       "ts_utc": "2026-10-08T07:30:00Z",
       "type": "cost_and_llm_completion",
       "note": "LLM 管线 R1–R4 完成（deepseek-chat，4+1 次调用，均 temperature=0），MVP 运行期总成本 $0.018，明细见 ledger/cost_report.csv；R3 红队压力测试（不改冻结先验）结果 P∈[0.678,0.720]，见 REPORT.md §8；R4 审校 pass=false 经人工裁决不采纳为阻断项，处置留痕于 REPORT.md §11。核心预测字段（verdict/P/inputs）未变动。"
+    },
+    {
+      "ts_utc": "2026-10-09T07:50:00Z",
+      "type": "external_timestamp_attestation",
+      "note": "提交副本已推送至公开仓库 https://github.com/ApaTitee/NATiV3_prediction_MVP（GitHub 服务端 created_at=2026-10-09T07:45:21Z, pushed_at=2026-10-09T07:47:10Z），构成本预测先于 topline 读出的第三方时间戳证据。核心预测字段未变动。"
     }
   ]
 }
